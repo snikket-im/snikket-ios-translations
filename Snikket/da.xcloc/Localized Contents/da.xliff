@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="NotificationService/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="da">
     <header>
@@ -22,7 +22,7 @@
     <body>
       <trans-unit id="6l2-wd-vXh.title" xml:space="preserve">
         <source>Accounts</source>
-        <target>Accounts</target>
+        <target state="needs-translation">Accounts</target>
         <note>Class = "UITableViewController"; title = "Accounts"; ObjectID = "6l2-wd-vXh";</note>
       </trans-unit>
       <trans-unit id="95D-JK-fLM.text" xml:space="preserve">
@@ -37,7 +37,7 @@
       </trans-unit>
       <trans-unit id="wpy-g7-270.title" xml:space="preserve">
         <source>Recipients</source>
-        <target>Recipients</target>
+        <target state="needs-translation">Recipients</target>
         <note>Class = "UITableViewController"; title = "Recipients"; ObjectID = "wpy-g7-270";</note>
       </trans-unit>
     </body>
@@ -74,32 +74,32 @@
       </trans-unit>
       <trans-unit id="7KN-S3-8XR.placeholder" xml:space="preserve">
         <source>Required</source>
-        <target>Required</target>
+        <target state="needs-translation">Required</target>
         <note>Class = "UITextField"; placeholder = "Required"; ObjectID = "7KN-S3-8XR";</note>
       </trans-unit>
       <trans-unit id="7cH-MH-cya.text" xml:space="preserve">
         <source>Scan QR Code to add me as a buddy</source>
-        <target>Scan QR Code to add me as a buddy</target>
+        <target state="needs-translation">Scan QR Code to add me as a buddy</target>
         <note>Class = "UILabel"; text = "Scan QR Code to add me as a buddy"; ObjectID = "7cH-MH-cya";</note>
       </trans-unit>
       <trans-unit id="9PW-Rb-rop.headerTitle" xml:space="preserve">
         <source>Message Archiving</source>
-        <target>Message Archiving</target>
+        <target state="needs-translation">Message Archiving</target>
         <note>Class = "UITableViewSection"; headerTitle = "Message Archiving"; ObjectID = "9PW-Rb-rop";</note>
       </trans-unit>
       <trans-unit id="27D-rn-4zp.text" xml:space="preserve">
         <source>Nickname</source>
-        <target>Nickname</target>
+        <target state="needs-translation">Nickname</target>
         <note>Class = "UILabel"; text = "Nickname"; ObjectID = "27D-rn-4zp";</note>
       </trans-unit>
       <trans-unit id="70p-aF-3x5.text" xml:space="preserve">
         <source>Change account settings</source>
-        <target>Change account settings</target>
+        <target state="needs-translation">Change account settings</target>
         <note>Class = "UILabel"; text = "Change account settings"; ObjectID = "70p-aF-3x5";</note>
       </trans-unit>
       <trans-unit id="A24-eF-tzh.title" xml:space="preserve">
         <source>OMEMO fingerprints</source>
-        <target>OMEMO fingerprints</target>
+        <target state="needs-translation">OMEMO fingerprints</target>
         <note>Class = "UITableViewController"; title = "OMEMO fingerprints"; ObjectID = "A24-eF-tzh";</note>
       </trans-unit>
       <trans-unit id="BE2-bI-S0Z.text" xml:space="preserve">
@@ -119,7 +119,7 @@
       </trans-unit>
       <trans-unit id="Et5-H6-t7C.headerTitle" xml:space="preserve">
         <source>Encryption</source>
-        <target>Encryption</target>
+        <target state="needs-translation">Encryption</target>
         <note>Class = "UITableViewSection"; headerTitle = "Encryption"; ObjectID = "Et5-H6-t7C";</note>
       </trans-unit>
       <trans-unit id="FeX-5F-H2m.text" xml:space="preserve">
@@ -129,22 +129,22 @@
       </trans-unit>
       <trans-unit id="GNS-EF-AqY.text" xml:space="preserve">
         <source>Synchronization</source>
-        <target>Synchronization</target>
+        <target state="needs-translation">Synchronization</target>
         <note>Class = "UILabel"; text = "Synchronization"; ObjectID = "GNS-EF-AqY";</note>
       </trans-unit>
       <trans-unit id="GTa-Ee-HQT.text" xml:space="preserve">
         <source>Enabled</source>
-        <target>Enabled</target>
+        <target state="needs-translation">Enabled</target>
         <note>Class = "UILabel"; text = "Enabled"; ObjectID = "GTa-Ee-HQT";</note>
       </trans-unit>
       <trans-unit id="GWw-NK-6oU.text" xml:space="preserve">
         <source>Delete</source>
-        <target>Delete</target>
+        <target state="needs-translation">Delete</target>
         <note>Class = "UILabel"; text = "Delete"; ObjectID = "GWw-NK-6oU";</note>
       </trans-unit>
       <trans-unit id="J9o-cf-vMy.text" xml:space="preserve">
         <source>Automatic synchronization</source>
-        <target>Automatic synchronization</target>
+        <target state="needs-translation">Automatic synchronization</target>
         <note>Class = "UILabel"; text = "Automatic synchronization"; ObjectID = "J9o-cf-vMy";</note>
       </trans-unit>
       <trans-unit id="JkB-3h-A61.text" xml:space="preserve">
@@ -179,12 +179,12 @@
       </trans-unit>
       <trans-unit id="PvC-LX-0Sp.headerTitle" xml:space="preserve">
         <source>Push Notifications</source>
-        <target>Push Notifications</target>
+        <target state="needs-translation">Push Notifications</target>
         <note>Class = "UITableViewSection"; headerTitle = "Push Notifications"; ObjectID = "PvC-LX-0Sp";</note>
       </trans-unit>
       <trans-unit id="R0m-k2-q64.title" xml:space="preserve">
         <source>Next</source>
-        <target>Next</target>
+        <target state="needs-translation">Next</target>
         <note>Class = "UIBarButtonItem"; title = "Next"; ObjectID = "R0m-k2-q64";</note>
       </trans-unit>
       <trans-unit id="SKG-bP-NPK.footerTitle" xml:space="preserve">
@@ -209,12 +209,12 @@
       </trans-unit>
       <trans-unit id="XLZ-oR-88H.text" xml:space="preserve">
         <source>Last 24 hours</source>
-        <target>Last 24 hours</target>
+        <target state="needs-translation">Last 24 hours</target>
         <note>Class = "UILabel"; text = "Last 24 hours"; ObjectID = "XLZ-oR-88H";</note>
       </trans-unit>
       <trans-unit id="ZHc-Ml-5eX.text" xml:space="preserve">
         <source>Enabled</source>
-        <target>Enabled</target>
+        <target state="needs-translation">Enabled</target>
         <note>Class = "UILabel"; text = "Enabled"; ObjectID = "ZHc-Ml-5eX";</note>
       </trans-unit>
       <trans-unit id="aKW-CM-bl2.text" xml:space="preserve">
@@ -239,7 +239,7 @@
       </trans-unit>
       <trans-unit id="gzC-dB-kIF.title" xml:space="preserve">
         <source>Account settings</source>
-        <target>Account settings</target>
+        <target state="needs-translation">Account settings</target>
         <note>Class = "UINavigationItem"; title = "Account settings"; ObjectID = "gzC-dB-kIF";</note>
       </trans-unit>
       <trans-unit id="i2f-mN-qTd.text" xml:space="preserve">
@@ -249,7 +249,7 @@
       </trans-unit>
       <trans-unit id="ijD-Kb-uyj.title" xml:space="preserve">
         <source>Done</source>
-        <target>Done</target>
+        <target state="needs-translation">Done</target>
         <note>Class = "UIBarButtonItem"; title = "Done"; ObjectID = "ijD-Kb-uyj";</note>
       </trans-unit>
       <trans-unit id="jAE-vq-Vfj.text" xml:space="preserve">
@@ -264,12 +264,12 @@
       </trans-unit>
       <trans-unit id="t3T-uh-mob.text" xml:space="preserve">
         <source>Server features</source>
-        <target>Server features</target>
+        <target state="needs-translation">Server features</target>
         <note>Class = "UILabel"; text = "Server features"; ObjectID = "t3T-uh-mob";</note>
       </trans-unit>
       <trans-unit id="v8B-ee-zAk.headerTitle" xml:space="preserve">
         <source>General</source>
-        <target>General</target>
+        <target state="needs-translation">General</target>
         <note>Class = "UITableViewSection"; headerTitle = "General"; ObjectID = "v8B-ee-zAk";</note>
       </trans-unit>
       <trans-unit id="vF4-tE-C74.text" xml:space="preserve">
@@ -284,12 +284,12 @@
       </trans-unit>
       <trans-unit id="wW7-3f-Kck.title" xml:space="preserve">
         <source>Server Features</source>
-        <target>Server Features</target>
+        <target state="needs-translation">Server Features</target>
         <note>Class = "UITableViewController"; title = "Server Features"; ObjectID = "wW7-3f-Kck";</note>
       </trans-unit>
       <trans-unit id="wbI-5v-vug.text" xml:space="preserve">
         <source>Enabled</source>
-        <target>Enabled</target>
+        <target state="needs-translation">Enabled</target>
         <note>Class = "UILabel"; text = "Enabled"; ObjectID = "wbI-5v-vug";</note>
       </trans-unit>
       <trans-unit id="ynp-RE-XlY.placeholder" xml:space="preserve">
@@ -316,12 +316,12 @@
       </trans-unit>
       <trans-unit id="02f-aw-3Zd.text" xml:space="preserve">
         <source>Notifications</source>
-        <target>Notifications</target>
+        <target state="needs-translation">Notifications</target>
         <note>Class = "UILabel"; text = "Notifications"; ObjectID = "02f-aw-3Zd";</note>
       </trans-unit>
       <trans-unit id="54Z-E5-MZp.text" xml:space="preserve">
         <source>Offline</source>
-        <target>Offline</target>
+        <target state="needs-translation">Offline</target>
         <note>Class = "UILabel"; text = "Offline"; ObjectID = "54Z-E5-MZp";</note>
       </trans-unit>
       <trans-unit id="552-vb-Heg.headerTitle" xml:space="preserve">
@@ -336,7 +336,7 @@
       </trans-unit>
       <trans-unit id="DQk-sn-hKj.text" xml:space="preserve">
         <source>Encryption</source>
-        <target>Encryption</target>
+        <target state="needs-translation">Encryption</target>
         <note>Class = "UILabel"; text = "Encryption"; ObjectID = "DQk-sn-hKj";</note>
       </trans-unit>
       <trans-unit id="IGA-uE-mHb.title" xml:space="preserve">
@@ -351,7 +351,7 @@
       </trans-unit>
       <trans-unit id="SOJ-3n-8YB.title" xml:space="preserve">
         <source>Invite to chat</source>
-        <target>Invite to chat</target>
+        <target state="needs-translation">Invite to chat</target>
         <note>Class = "UITableViewController"; title = "Invite to chat"; ObjectID = "SOJ-3n-8YB";</note>
       </trans-unit>
       <trans-unit id="WaG-aF-FTg.text" xml:space="preserve">
@@ -361,7 +361,7 @@
       </trans-unit>
       <trans-unit id="YT2-1I-RlM.text" xml:space="preserve">
         <source>None</source>
-        <target>None</target>
+        <target state="needs-translation">None</target>
         <note>Class = "UILabel"; text = "None"; ObjectID = "YT2-1I-RlM";</note>
       </trans-unit>
       <trans-unit id="az1-E9-Dy7.text" xml:space="preserve">
@@ -371,7 +371,7 @@
       </trans-unit>
       <trans-unit id="bRu-vo-fpu.footerTitle" xml:space="preserve">
         <source>Push notification support depends on the XMPP server which you are using and may not work in some cases even if it's supported and enabled on the group chat</source>
-        <target>Push notification support depends on the XMPP server which you are using and may not work in some cases even if it's supported and enabled on the group chat</target>
+        <target state="needs-translation">Push notification support depends on the XMPP server which you are using and may not work in some cases even if it's supported and enabled on the group chat</target>
         <note>Class = "UITableViewSection"; footerTitle = "Push notification support depends on the XMPP server which you are using and may not work in some cases even if it's supported and enabled on the group chat"; ObjectID = "bRu-vo-fpu";</note>
       </trans-unit>
       <trans-unit id="bRu-vo-fpu.headerTitle" xml:space="preserve">
@@ -381,17 +381,17 @@
       </trans-unit>
       <trans-unit id="exK-ZH-jpA.text" xml:space="preserve">
         <source>When mentioned</source>
-        <target>When mentioned</target>
+        <target state="needs-translation">When mentioned</target>
         <note>Class = "UILabel"; text = "When mentioned"; ObjectID = "exK-ZH-jpA";</note>
       </trans-unit>
       <trans-unit id="iYv-zL-tZT.headerTitle" xml:space="preserve">
         <source>Subject</source>
-        <target>Subject</target>
+        <target state="needs-translation">Subject</target>
         <note>Class = "UITableViewSection"; headerTitle = "Subject"; ObjectID = "iYv-zL-tZT";</note>
       </trans-unit>
       <trans-unit id="jMz-qR-fJ6.text" xml:space="preserve">
         <source>Push notifications</source>
-        <target>Push notifications</target>
+        <target state="needs-translation">Push notifications</target>
         <note>Class = "UILabel"; text = "Push notifications"; ObjectID = "jMz-qR-fJ6";</note>
       </trans-unit>
       <trans-unit id="kFB-wJ-yDE.text" xml:space="preserve">
@@ -416,12 +416,12 @@
       </trans-unit>
       <trans-unit id="wBw-1J-Xau.text" xml:space="preserve">
         <source>Attachments</source>
-        <target>Attachments</target>
+        <target state="needs-translation">Attachments</target>
         <note>Class = "UILabel"; text = "Attachments"; ObjectID = "wBw-1J-Xau";</note>
       </trans-unit>
       <trans-unit id="wNk-Ce-zfI.text" xml:space="preserve">
         <source>Delete History</source>
-        <target>Delete History</target>
+        <target state="needs-translation">Delete History</target>
         <note>Class = "UILabel"; text = "Delete History"; ObjectID = "wNk-Ce-zfI";</note>
       </trans-unit>
     </body>
@@ -593,7 +593,7 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="lRd-ky-eXs.text" xml:space="preserve">
         <source>Version: 1.0</source>
-        <target>Version: 1.0</target>
+        <target state="needs-translation">Version: 1.0</target>
         <note>Class = "UILabel"; text = "Version: 1.0"; ObjectID = "lRd-ky-eXs";</note>
       </trans-unit>
     </body>
@@ -610,12 +610,12 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="1dk-YA-RVu.text" xml:space="preserve">
         <source>Your server for account \(account) supports message archiving. Would you like to enable this feature?</source>
-        <target>Your server for account (account) supports message archiving. Would you like to enable this feature?</target>
+        <target state="needs-translation">Your server for account (account) supports message archiving. Would you like to enable this feature?</target>
         <note>Class = "UILabel"; text = "Your server for account \\(account) supports message archiving. Would you like to enable this feature?"; ObjectID = "1dk-YA-RVu";</note>
       </trans-unit>
       <trans-unit id="5tI-9V-tVB.normalTitle" xml:space="preserve">
         <source>Send Current Location</source>
-        <target>Send Current Location</target>
+        <target state="needs-translation">Send Current Location</target>
         <note>Class = "UIButton"; normalTitle = "Send Current Location"; ObjectID = "5tI-9V-tVB";</note>
       </trans-unit>
       <trans-unit id="6Zq-Ql-WA0.text" xml:space="preserve">
@@ -630,12 +630,12 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="8ba-yZ-XRA.text" xml:space="preserve">
         <source>by Tigase, Inc.</source>
-        <target>by Tigase, Inc.</target>
+        <target state="needs-translation">by Tigase, Inc.</target>
         <note>Class = "UILabel"; text = "by Tigase, Inc."; ObjectID = "8ba-yZ-XRA";</note>
       </trans-unit>
       <trans-unit id="9pv-A4-QxB.title" xml:space="preserve">
         <source>Chats</source>
-        <target>Chats</target>
+        <target state="needs-translation">Chats</target>
         <note>Class = "UIViewController"; title = "Chats"; ObjectID = "9pv-A4-QxB";</note>
       </trans-unit>
       <trans-unit id="BM3-28-huR.placeholder" xml:space="preserve">
@@ -650,12 +650,12 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="C1j-4i-HDP.title" xml:space="preserve">
         <source>Attachments</source>
-        <target>Attachments</target>
+        <target state="needs-translation">Attachments</target>
         <note>Class = "UINavigationItem"; title = "Attachments"; ObjectID = "C1j-4i-HDP";</note>
       </trans-unit>
       <trans-unit id="Ckp-Mb-v0c.text" xml:space="preserve">
         <source>Message Archiving</source>
-        <target>Message Archiving</target>
+        <target state="needs-translation">Message Archiving</target>
         <note>Class = "UILabel"; text = "Message Archiving"; ObjectID = "Ckp-Mb-v0c";</note>
       </trans-unit>
       <trans-unit id="DZS-A8-CWS.text" xml:space="preserve">
@@ -665,32 +665,32 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="Dx3-QU-3cN.title" xml:space="preserve">
         <source>Back</source>
-        <target>Back</target>
+        <target state="needs-translation">Back</target>
         <note>Class = "UIBarButtonItem"; title = "Back"; ObjectID = "Dx3-QU-3cN";</note>
       </trans-unit>
       <trans-unit id="EpU-tc-DIx.text" xml:space="preserve">
         <source>Attachments</source>
-        <target>Attachments</target>
+        <target state="needs-translation">Attachments</target>
         <note>Class = "UILabel"; text = "Attachments"; ObjectID = "EpU-tc-DIx";</note>
       </trans-unit>
       <trans-unit id="Kfl-J5-hdD.headerTitle" xml:space="preserve">
         <source>Name</source>
-        <target>Name</target>
+        <target state="needs-translation">Name</target>
         <note>Class = "UITableViewSection"; headerTitle = "Name"; ObjectID = "Kfl-J5-hdD";</note>
       </trans-unit>
       <trans-unit id="LKO-PG-RwH.title" xml:space="preserve">
         <source>Chats</source>
-        <target>Chats</target>
+        <target state="needs-translation">Chats</target>
         <note>Class = "UINavigationItem"; title = "Chats"; ObjectID = "LKO-PG-RwH";</note>
       </trans-unit>
       <trans-unit id="Mfv-HJ-QDO.headerTitle" xml:space="preserve">
         <source>Account</source>
-        <target>Account</target>
+        <target state="needs-translation">Account</target>
         <note>Class = "UITableViewSection"; headerTitle = "Account"; ObjectID = "Mfv-HJ-QDO";</note>
       </trans-unit>
       <trans-unit id="N9z-ms-iaT.title" xml:space="preserve">
         <source>Attachments</source>
-        <target>Attachments</target>
+        <target state="needs-translation">Attachments</target>
         <note>Class = "UICollectionViewController"; title = "Attachments"; ObjectID = "N9z-ms-iaT";</note>
       </trans-unit>
       <trans-unit id="NYU-vU-24f.title" xml:space="preserve">
@@ -700,12 +700,12 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="Ndx-if-NHK.title" xml:space="preserve">
         <source>Contacts</source>
-        <target>Contacts</target>
+        <target state="needs-translation">Contacts</target>
         <note>Class = "UINavigationController"; title = "Contacts"; ObjectID = "Ndx-if-NHK";</note>
       </trans-unit>
       <trans-unit id="OGf-mX-8z3.placeholder" xml:space="preserve">
         <source>Enter display name</source>
-        <target>Enter display name</target>
+        <target state="needs-translation">Enter display name</target>
         <note>Class = "UITextField"; placeholder = "Enter display name"; ObjectID = "OGf-mX-8z3";</note>
       </trans-unit>
       <trans-unit id="OGf-mX-8z3.text" xml:space="preserve">
@@ -725,12 +725,12 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="Qr0-8H-IJq.text" xml:space="preserve">
         <source>Chat with</source>
-        <target>Chat with</target>
+        <target state="needs-translation">Chat with</target>
         <note>Class = "UILabel"; text = "Chat with"; ObjectID = "Qr0-8H-IJq";</note>
       </trans-unit>
       <trans-unit id="SEz-IM-IWL.title" xml:space="preserve">
         <source>Contacts</source>
-        <target>Contacts</target>
+        <target state="needs-translation">Contacts</target>
         <note>Class = "UINavigationItem"; title = "Contacts"; ObjectID = "SEz-IM-IWL";</note>
       </trans-unit>
       <trans-unit id="UWL-vQ-lxc.text" xml:space="preserve">
@@ -745,12 +745,12 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="W52-LN-wzX.title" xml:space="preserve">
         <source>Contacts</source>
-        <target>Contacts</target>
+        <target state="needs-translation">Contacts</target>
         <note>Class = "UITabBarItem"; title = "Contacts"; ObjectID = "W52-LN-wzX";</note>
       </trans-unit>
       <trans-unit id="WP2-Cp-7ZE.title" xml:space="preserve">
         <source>Chat</source>
-        <target>Chat</target>
+        <target state="needs-translation">Chat</target>
         <note>Class = "UIViewController"; title = "Chat"; ObjectID = "WP2-Cp-7ZE";</note>
       </trans-unit>
       <trans-unit id="WyQ-cb-VAl.normalTitle" xml:space="preserve">
@@ -760,7 +760,7 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="XZp-oZ-XpC.text" xml:space="preserve">
         <source>Message encryption</source>
-        <target>Message encryption</target>
+        <target state="needs-translation">Message encryption</target>
         <note>Class = "UILabel"; text = "Message encryption"; ObjectID = "XZp-oZ-XpC";</note>
       </trans-unit>
       <trans-unit id="YEU-rS-450.title" xml:space="preserve">
@@ -775,7 +775,7 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="acW-dT-cKf.title" xml:space="preserve">
         <source>Chats</source>
-        <target>Chats</target>
+        <target state="needs-translation">Chats</target>
         <note>Class = "UITabBarItem"; title = "Chats"; ObjectID = "acW-dT-cKf";</note>
       </trans-unit>
       <trans-unit id="agd-7n-AkX.text" xml:space="preserve">
@@ -795,7 +795,7 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="e6z-jk-XtN.title" xml:space="preserve">
         <source>Send Location</source>
-        <target>Send Location</target>
+        <target state="needs-translation">Send Location</target>
         <note>Class = "UINavigationItem"; title = "Send Location"; ObjectID = "e6z-jk-XtN";</note>
       </trans-unit>
       <trans-unit id="ffo-7n-Tn2.text" xml:space="preserve">
@@ -805,27 +805,27 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="g8N-kr-fax.text" xml:space="preserve">
         <source>Mute contact</source>
-        <target>Mute contact</target>
+        <target state="needs-translation">Mute contact</target>
         <note>Class = "UILabel"; text = "Mute contact"; ObjectID = "g8N-kr-fax";</note>
       </trans-unit>
       <trans-unit id="gXY-yq-Y2K.placeholder" xml:space="preserve">
         <source>Select account</source>
-        <target>Select account</target>
+        <target state="needs-translation">Select account</target>
         <note>Class = "UITextField"; placeholder = "Select account"; ObjectID = "gXY-yq-Y2K";</note>
       </trans-unit>
       <trans-unit id="gXY-yq-Y2K.text" xml:space="preserve">
         <source>local_user@example.com</source>
-        <target>local_user@example.com</target>
+        <target state="needs-translation">local_user@example.com</target>
         <note>Class = "UITextField"; text = "local_user@example.com"; ObjectID = "gXY-yq-Y2K";</note>
       </trans-unit>
       <trans-unit id="ga8-2K-hxE.text" xml:space="preserve">
         <source>Timestamp</source>
-        <target>Timestamp</target>
+        <target state="needs-translation">Timestamp</target>
         <note>Class = "UILabel"; text = "Timestamp"; ObjectID = "ga8-2K-hxE";</note>
       </trans-unit>
       <trans-unit id="kee-Xk-ORJ.title" xml:space="preserve">
         <source>Settings</source>
-        <target>Settings</target>
+        <target state="needs-translation">Settings</target>
         <note>Class = "UITabBarItem"; title = "Settings"; ObjectID = "kee-Xk-ORJ";</note>
       </trans-unit>
       <trans-unit id="koS-ci-GqT.text" xml:space="preserve">
@@ -835,7 +835,7 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="kwQ-p7-cX2.text" xml:space="preserve">
         <source>Block contact</source>
-        <target>Block contact</target>
+        <target state="needs-translation">Block contact</target>
         <note>Class = "UILabel"; text = "Block contact"; ObjectID = "kwQ-p7-cX2";</note>
       </trans-unit>
       <trans-unit id="m0n-Ls-5LF.text" xml:space="preserve">
@@ -845,12 +845,12 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="qjs-BY-Nid.text" xml:space="preserve">
         <source>Clear History</source>
-        <target>Clear History</target>
+        <target state="needs-translation">Clear History</target>
         <note>Class = "UILabel"; text = "Clear History"; ObjectID = "qjs-BY-Nid";</note>
       </trans-unit>
       <trans-unit id="rOe-Pg-XBh.text" xml:space="preserve">
         <source>user@example.com</source>
-        <target>user@example.com</target>
+        <target state="needs-translation">user@example.com</target>
         <note>Class = "UILabel"; text = "user@example.com"; ObjectID = "rOe-Pg-XBh";</note>
       </trans-unit>
       <trans-unit id="tRD-rd-7dm.text" xml:space="preserve">
@@ -875,17 +875,17 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="wE7-Lf-1a4.text" xml:space="preserve">
         <source>Last message</source>
-        <target>Last message</target>
+        <target state="needs-translation">Last message</target>
         <note>Class = "UILabel"; text = "Last message"; ObjectID = "wE7-Lf-1a4";</note>
       </trans-unit>
       <trans-unit id="wvT-dz-RVz.normalTitle" xml:space="preserve">
         <source>Not now</source>
-        <target>Not now</target>
+        <target state="needs-translation">Not now</target>
         <note>Class = "UIButton"; normalTitle = "Not now"; ObjectID = "wvT-dz-RVz";</note>
       </trans-unit>
       <trans-unit id="yJk-Px-1oo.normalTitle" xml:space="preserve">
         <source>Enable</source>
-        <target>Enable</target>
+        <target state="needs-translation">Enable</target>
         <note>Class = "UIButton"; normalTitle = "Enable"; ObjectID = "yJk-Px-1oo";</note>
       </trans-unit>
       <trans-unit id="yxF-LM-meS.text" xml:space="preserve">
@@ -907,12 +907,12 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="4lS-sP-X2v.headerTitle" xml:space="preserve">
         <source>Select Account</source>
-        <target>Select Account</target>
+        <target state="needs-translation">Select Account</target>
         <note>Class = "UITableViewSection"; headerTitle = "Select Account"; ObjectID = "4lS-sP-X2v";</note>
       </trans-unit>
       <trans-unit id="4mY-vJ-rHP.text" xml:space="preserve">
         <source>When mentioned</source>
-        <target>When mentioned</target>
+        <target state="needs-translation">When mentioned</target>
         <note>Class = "UILabel"; text = "When mentioned"; ObjectID = "4mY-vJ-rHP";</note>
       </trans-unit>
       <trans-unit id="14i-9k-DTf.text" xml:space="preserve">
@@ -922,7 +922,7 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="19A-3H-7QN.placeholder" xml:space="preserve">
         <source>Automatic</source>
-        <target>Automatic</target>
+        <target state="needs-translation">Automatic</target>
         <note>Class = "UITextField"; placeholder = "Automatic"; ObjectID = "19A-3H-7QN";</note>
       </trans-unit>
       <trans-unit id="94L-uC-ldZ.footerTitle" xml:space="preserve">
@@ -942,7 +942,7 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="C5U-9C-poe.title" xml:space="preserve">
         <source>Select channel</source>
-        <target>Select channel</target>
+        <target state="needs-translation">Select channel</target>
         <note>Class = "UINavigationItem"; title = "Select channel"; ObjectID = "C5U-9C-poe";</note>
       </trans-unit>
       <trans-unit id="Gxx-ac-Co4.text" xml:space="preserve">
@@ -952,12 +952,12 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="Jiu-Fd-AsM.placeholder" xml:space="preserve">
         <source>optional</source>
-        <target>optional</target>
+        <target state="needs-translation">optional</target>
         <note>Class = "UITextField"; placeholder = "optional"; ObjectID = "Jiu-Fd-AsM";</note>
       </trans-unit>
       <trans-unit id="Kre-sS-2vH.title" xml:space="preserve">
         <source>Invite</source>
-        <target>Invite</target>
+        <target state="needs-translation">Invite</target>
         <note>Class = "UIBarButtonItem"; title = "Invite"; ObjectID = "Kre-sS-2vH";</note>
       </trans-unit>
       <trans-unit id="L9j-Ji-XrB.text" xml:space="preserve">
@@ -967,12 +967,12 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="MsF-6z-TY3.placeholder" xml:space="preserve">
         <source>Description</source>
-        <target>Description</target>
+        <target state="needs-translation">Description</target>
         <note>Class = "UITextField"; placeholder = "Description"; ObjectID = "MsF-6z-TY3";</note>
       </trans-unit>
       <trans-unit id="NWM-d4-jmq.text" xml:space="preserve">
         <source>Attachments</source>
-        <target>Attachments</target>
+        <target state="needs-translation">Attachments</target>
         <note>Class = "UILabel"; text = "Attachments"; ObjectID = "NWM-d4-jmq";</note>
       </trans-unit>
       <trans-unit id="Ngp-xJ-0lZ.headerTitle" xml:space="preserve">
@@ -987,32 +987,32 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="O9e-sP-5IO.text" xml:space="preserve">
         <source>Delete channel</source>
-        <target>Delete channel</target>
+        <target state="needs-translation">Delete channel</target>
         <note>Class = "UILabel"; text = "Delete channel"; ObjectID = "O9e-sP-5IO";</note>
       </trans-unit>
       <trans-unit id="P5r-af-VfY.text" xml:space="preserve">
         <source>Channel name</source>
-        <target>Channel name</target>
+        <target state="needs-translation">Channel name</target>
         <note>Class = "UILabel"; text = "Channel name"; ObjectID = "P5r-af-VfY";</note>
       </trans-unit>
       <trans-unit id="Pgv-Uz-ZgP.title" xml:space="preserve">
         <source>Join</source>
-        <target>Join</target>
+        <target state="needs-translation">Join</target>
         <note>Class = "UIBarButtonItem"; title = "Join"; ObjectID = "Pgv-Uz-ZgP";</note>
       </trans-unit>
       <trans-unit id="SUF-pg-qbn.footerTitle" xml:space="preserve">
         <source>Select which account should be used to join channel</source>
-        <target>Select which account should be used to join channel</target>
+        <target state="needs-translation">Select which account should be used to join channel</target>
         <note>Class = "UITableViewSection"; footerTitle = "Select which account should be used to join channel"; ObjectID = "SUF-pg-qbn";</note>
       </trans-unit>
       <trans-unit id="SUF-pg-qbn.headerTitle" xml:space="preserve">
         <source>Account</source>
-        <target>Account</target>
+        <target state="needs-translation">Account</target>
         <note>Class = "UITableViewSection"; headerTitle = "Account"; ObjectID = "SUF-pg-qbn";</note>
       </trans-unit>
       <trans-unit id="Sso-1F-PI3.text" xml:space="preserve">
         <source>Change</source>
-        <target>Change</target>
+        <target state="needs-translation">Change</target>
         <note>Class = "UILabel"; text = "Change"; ObjectID = "Sso-1F-PI3";</note>
       </trans-unit>
       <trans-unit id="TOR-gJ-n2M.text" xml:space="preserve">
@@ -1189,22 +1189,22 @@ of the date such litigation is filed.
     <body>
       <trans-unit id="3a8-1d-3PR.text" xml:space="preserve">
         <source>Show emoticons</source>
-        <target>Show emoticons</target>
+        <target state="needs-translation">Show emoticons</target>
         <note>Class = "UILabel"; text = "Show emoticons"; ObjectID = "3a8-1d-3PR";</note>
       </trans-unit>
       <trans-unit id="3pd-ay-sAI.text" xml:space="preserve">
         <source>Notifications</source>
-        <target>Notifications</target>
+        <target state="needs-translation">Notifications</target>
         <note>Class = "UILabel"; text = "Notifications"; ObjectID = "3pd-ay-sAI";</note>
       </trans-unit>
       <trans-unit id="3vM-ad-4ap.text" xml:space="preserve">
         <source>About</source>
-        <target>About</target>
+        <target state="needs-translation">About</target>
         <note>Class = "UILabel"; text = "About"; ObjectID = "3vM-ad-4ap";</note>
       </trans-unit>
       <trans-unit id="7ho-Mu-thd.text" xml:space="preserve">
         <source>Account name</source>
-        <target>Account name</target>
+        <target state="needs-translation">Account name</target>
         <note>Class = "UILabel"; text = "Account name"; ObjectID = "7ho-Mu-thd";</note>
       </trans-unit>
       <trans-unit id="7tC-Eh-kK5.text" xml:space="preserve">
@@ -1214,7 +1214,7 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="8G3-tm-sCO.text" xml:space="preserve">
         <source>Media</source>
-        <target>Media</target>
+        <target state="needs-translation">Media</target>
         <note>Class = "UILabel"; text = "Media"; ObjectID = "8G3-tm-sCO";</note>
       </trans-unit>
       <trans-unit id="8K5-bS-ddh.text" xml:space="preserve">
@@ -1224,37 +1224,37 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="9Gl-4Z-f2X.text" xml:space="preserve">
         <source>Encryption</source>
-        <target>Encryption</target>
+        <target state="needs-translation">Encryption</target>
         <note>Class = "UILabel"; text = "Encryption"; ObjectID = "9Gl-4Z-f2X";</note>
       </trans-unit>
       <trans-unit id="15C-WY-qrp.title" xml:space="preserve">
         <source>Settings</source>
-        <target>Settings</target>
+        <target state="needs-translation">Settings</target>
         <note>Class = "UINavigationController"; title = "Settings"; ObjectID = "15C-WY-qrp";</note>
       </trans-unit>
       <trans-unit id="32B-bc-CHX.text" xml:space="preserve">
         <source>Request delivery receipts</source>
-        <target>Request delivery receipts</target>
+        <target state="needs-translation">Request delivery receipts</target>
         <note>Class = "UILabel"; text = "Request delivery receipts"; ObjectID = "32B-bc-CHX";</note>
       </trans-unit>
       <trans-unit id="Aki-gv-qus.text" xml:space="preserve">
         <source>No blocked contacts</source>
-        <target>No blocked contacts</target>
+        <target state="needs-translation">No blocked contacts</target>
         <note>Class = "UILabel"; text = "No blocked contacts"; ObjectID = "Aki-gv-qus";</note>
       </trans-unit>
       <trans-unit id="BSa-RZ-M7L.text" xml:space="preserve">
         <source>Use public STUN servers</source>
-        <target>Use public STUN servers</target>
+        <target state="needs-translation">Use public STUN servers</target>
         <note>Class = "UILabel"; text = "Use public STUN servers"; ObjectID = "BSa-RZ-M7L";</note>
       </trans-unit>
       <trans-unit id="BSk-tI-BDM.text" xml:space="preserve">
         <source>Contacts in groups</source>
-        <target>Contacts in groups</target>
+        <target state="needs-translation">Contacts in groups</target>
         <note>Class = "UILabel"; text = "Contacts in groups"; ObjectID = "BSk-tI-BDM";</note>
       </trans-unit>
       <trans-unit id="Bd4-qf-OsU.text" xml:space="preserve">
         <source>Send message on return</source>
-        <target>Send message on return</target>
+        <target state="needs-translation">Send message on return</target>
         <note>Class = "UILabel"; text = "Send message on return"; ObjectID = "Bd4-qf-OsU";</note>
       </trans-unit>
       <trans-unit id="FGQ-GL-dYt.title" xml:space="preserve">
@@ -1264,22 +1264,22 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="G2W-rB-KuE.title" xml:space="preserve">
         <source>Close</source>
-        <target>Close</target>
+        <target state="needs-translation">Close</target>
         <note>Class = "UIBarButtonItem"; title = "Close"; ObjectID = "G2W-rB-KuE";</note>
       </trans-unit>
       <trans-unit id="GfS-6V-cuc.title" xml:space="preserve">
         <source>Notification settings</source>
-        <target>Notification settings</target>
+        <target state="needs-translation">Notification settings</target>
         <note>Class = "UITableViewController"; title = "Notification settings"; ObjectID = "GfS-6V-cuc";</note>
       </trans-unit>
       <trans-unit id="Hu1-2i-RSO.text" xml:space="preserve">
         <source>Clear download cache</source>
-        <target>Clear download cache</target>
+        <target state="needs-translation">Clear download cache</target>
         <note>Class = "UILabel"; text = "Clear download cache"; ObjectID = "Hu1-2i-RSO";</note>
       </trans-unit>
       <trans-unit id="L2t-Ud-Fkc.text" xml:space="preserve">
         <source>Light</source>
-        <target>Light</target>
+        <target state="needs-translation">Light</target>
         <note>Class = "UILabel"; text = "Light"; ObjectID = "L2t-Ud-Fkc";</note>
       </trans-unit>
       <trans-unit id="LAc-oF-22z.text" xml:space="preserve">
@@ -1289,42 +1289,42 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="MGl-L6-Fs3.text" xml:space="preserve">
         <source>Auto-authorize contacts</source>
-        <target>Auto-authorize contacts</target>
+        <target state="needs-translation">Auto-authorize contacts</target>
         <note>Class = "UILabel"; text = "Auto-authorize contacts"; ObjectID = "MGl-L6-Fs3";</note>
       </trans-unit>
       <trans-unit id="MJ0-kw-1Kl.text" xml:space="preserve">
         <source>Blocked contacts</source>
-        <target>Blocked contacts</target>
+        <target state="needs-translation">Blocked contacts</target>
         <note>Class = "UILabel"; text = "Blocked contacts"; ObjectID = "MJ0-kw-1Kl";</note>
       </trans-unit>
       <trans-unit id="P82-B8-768.text" xml:space="preserve">
         <source>"Hidden" group</source>
-        <target>"Hidden" group</target>
+        <target state="needs-translation">"Hidden" group</target>
         <note>Class = "UILabel"; text = "\"Hidden\" group"; ObjectID = "P82-B8-768";</note>
       </trans-unit>
       <trans-unit id="Qu4-Mf-tz4.text" xml:space="preserve">
         <source>Message Styling</source>
-        <target>Message Styling</target>
+        <target state="needs-translation">Message Styling</target>
         <note>Class = "UILabel"; text = "Message Styling"; ObjectID = "Qu4-Mf-tz4";</note>
       </trans-unit>
       <trans-unit id="Tbt-L3-jpa.text" xml:space="preserve">
         <source>Groupchats bookmarks sync</source>
-        <target>Groupchats bookmarks sync</target>
+        <target state="needs-translation">Groupchats bookmarks sync</target>
         <note>Class = "UILabel"; text = "Groupchats bookmarks sync"; ObjectID = "Tbt-L3-jpa";</note>
       </trans-unit>
       <trans-unit id="UuL-li-3gA.text" xml:space="preserve">
         <source>20 MB</source>
-        <target>20 MB</target>
+        <target state="needs-translation">20 MB</target>
         <note>Class = "UILabel"; text = "20 MB"; ObjectID = "UuL-li-3gA";</note>
       </trans-unit>
       <trans-unit id="Y0J-o4-ADK.text" xml:space="preserve">
         <source>Sorting</source>
-        <target>Sorting</target>
+        <target state="needs-translation">Sorting</target>
         <note>Class = "UILabel"; text = "Sorting"; ObjectID = "Y0J-o4-ADK";</note>
       </trans-unit>
       <trans-unit id="Y3q-SX-IhN.text" xml:space="preserve">
         <source>Status Type</source>
-        <target>Status Type</target>
+        <target state="needs-translation">Status Type</target>
         <note>Class = "UILabel"; text = "Status Type"; ObjectID = "Y3q-SX-IhN";</note>
       </trans-unit>
       <trans-unit id="YDd-q8-r7f.text" xml:space="preserve">
@@ -1339,7 +1339,7 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="bPa-aU-WFn.text" xml:space="preserve">
         <source>None</source>
-        <target>None</target>
+        <target state="needs-translation">None</target>
         <note>Class = "UILabel"; text = "None"; ObjectID = "bPa-aU-WFn";</note>
       </trans-unit>
       <trans-unit id="bbT-7s-6ph.text" xml:space="preserve">
@@ -1349,12 +1349,12 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="bj6-vP-3A7.text" xml:space="preserve">
         <source>File download limit</source>
-        <target>File download limit</target>
+        <target state="needs-translation">File download limit</target>
         <note>Class = "UILabel"; text = "File download limit"; ObjectID = "bj6-vP-3A7";</note>
       </trans-unit>
       <trans-unit id="cyb-st-Bmw.text" xml:space="preserve">
         <source>Notifications from unknown</source>
-        <target>Notifications from unknown</target>
+        <target state="needs-translation">Notifications from unknown</target>
         <note>Class = "UILabel"; text = "Notifications from unknown"; ObjectID = "cyb-st-Bmw";</note>
       </trans-unit>
       <trans-unit id="dbq-Tl-d6b.text" xml:space="preserve">
@@ -1369,7 +1369,7 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="etv-3w-9lA.text" xml:space="preserve">
         <source>Chats</source>
-        <target>Chats</target>
+        <target state="needs-translation">Chats</target>
         <note>Class = "UILabel"; text = "Chats"; ObjectID = "etv-3w-9lA";</note>
       </trans-unit>
       <trans-unit id="fB5-hb-x8m.text" xml:space="preserve">
@@ -1379,57 +1379,57 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="fxY-aA-n0i.text" xml:space="preserve">
         <source>Appearance</source>
-        <target>Appearance</target>
+        <target state="needs-translation">Appearance</target>
         <note>Class = "UILabel"; text = "Appearance"; ObjectID = "fxY-aA-n0i";</note>
       </trans-unit>
       <trans-unit id="g4v-o5-nXZ.text" xml:space="preserve">
         <source>2 lines</source>
-        <target>2 lines</target>
+        <target state="needs-translation">2 lines</target>
         <note>Class = "UILabel"; text = "2 lines"; ObjectID = "g4v-o5-nXZ";</note>
       </trans-unit>
       <trans-unit id="hGX-FI-YNj.text" xml:space="preserve">
         <source>Contacts</source>
-        <target>Contacts</target>
+        <target state="needs-translation">Contacts</target>
         <note>Class = "UILabel"; text = "Contacts"; ObjectID = "hGX-FI-YNj";</note>
       </trans-unit>
       <trans-unit id="ieE-mK-uEm.text" xml:space="preserve">
         <source>Media</source>
-        <target>Media</target>
+        <target state="needs-translation">Media</target>
         <note>Class = "UILabel"; text = "Media"; ObjectID = "ieE-mK-uEm";</note>
       </trans-unit>
       <trans-unit id="ioL-eS-dDk.text" xml:space="preserve">
         <source>Clear chat on close</source>
-        <target>Clear chat on close</target>
+        <target state="needs-translation">Clear chat on close</target>
         <note>Class = "UILabel"; text = "Clear chat on close"; ObjectID = "ioL-eS-dDk";</note>
       </trans-unit>
       <trans-unit id="jeY-X9-tWB.title" xml:space="preserve">
         <source>Settings</source>
-        <target>Settings</target>
+        <target state="needs-translation">Settings</target>
         <note>Class = "UINavigationItem"; title = "Settings"; ObjectID = "jeY-X9-tWB";</note>
       </trans-unit>
       <trans-unit id="pFo-ox-4gT.title" xml:space="preserve">
         <source>Chat settings</source>
-        <target>Chat settings</target>
+        <target state="needs-translation">Chat settings</target>
         <note>Class = "UITableViewController"; title = "Chat settings"; ObjectID = "pFo-ox-4gT";</note>
       </trans-unit>
       <trans-unit id="tqu-Xn-F0Z.text" xml:space="preserve">
         <source>Medium</source>
-        <target>Medium</target>
+        <target state="needs-translation">Medium</target>
         <note>Class = "UILabel"; text = "Medium"; ObjectID = "tqu-Xn-F0Z";</note>
       </trans-unit>
       <trans-unit id="u45-W8-GP0.text" xml:space="preserve">
         <source>Medium</source>
-        <target>Medium</target>
+        <target state="needs-translation">Medium</target>
         <note>Class = "UILabel"; text = "Medium"; ObjectID = "u45-W8-GP0";</note>
       </trans-unit>
       <trans-unit id="xRS-v5-T5C.title" xml:space="preserve">
         <source>Contacts settings</source>
-        <target>Contacts settings</target>
+        <target state="needs-translation">Contacts settings</target>
         <note>Class = "UITableViewController"; title = "Contacts settings"; ObjectID = "xRS-v5-T5C";</note>
       </trans-unit>
       <trans-unit id="ybc-mt-hVG.text" xml:space="preserve">
         <source>Show link previews</source>
-        <target>Show link previews</target>
+        <target state="needs-translation">Show link previews</target>
         <note>Class = "UILabel"; text = "Show link previews"; ObjectID = "ybc-mt-hVG";</note>
       </trans-unit>
       <trans-unit id="zwR-jn-5u6.text" xml:space="preserve">
@@ -1568,12 +1568,12 @@ of the date such litigation is filed.
     <body>
       <trans-unit id="9Xm-uz-gIu.normalTitle" xml:space="preserve">
         <source>Learn more</source>
-        <target>Learn more</target>
+        <target state="needs-translation">Learn more</target>
         <note>Class = "UIButton"; normalTitle = "Learn more"; ObjectID = "9Xm-uz-gIu";</note>
       </trans-unit>
       <trans-unit id="Pr0-Qp-NEQ.title" xml:space="preserve">
         <source>Snikket</source>
-        <target>Snikket</target>
+        <target state="needs-translation">Snikket</target>
         <note>Class = "UINavigationItem"; title = "Snikket"; ObjectID = "Pr0-Qp-NEQ";</note>
       </trans-unit>
       <trans-unit id="i2u-OL-UUY.title" xml:space="preserve">
@@ -1583,7 +1583,7 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="is0-gN-a4J.normalTitle" xml:space="preserve">
         <source>Sign in</source>
-        <target>Sign in</target>
+        <target state="needs-translation">Sign in</target>
         <note>Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "is0-gN-a4J";</note>
       </trans-unit>
     </body>
