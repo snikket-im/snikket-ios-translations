@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="NotificationService/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
     <header>
@@ -163,12 +163,12 @@
       </trans-unit>
       <trans-unit id="LO4-Ys-cek.headerTitle" xml:space="preserve">
         <source> Password</source>
-        <target> Password</target>
+        <target state="needs-translation"> Password</target>
         <note>Class = "UITableViewSection"; headerTitle = " Password"; ObjectID = "LO4-Ys-cek";</note>
       </trans-unit>
       <trans-unit id="Mo3-sc-7ss.normalTitle" xml:space="preserve">
         <source>Change avatar</source>
-        <target>Change avatar</target>
+        <target state="needs-translation">Change avatar</target>
         <note>Class = "UIButton"; normalTitle = "Change avatar"; ObjectID = "Mo3-sc-7ss";</note>
       </trans-unit>
       <trans-unit id="NK4-tE-QSu.placeholder" xml:space="preserve">
@@ -193,12 +193,12 @@
       </trans-unit>
       <trans-unit id="SKG-bP-NPK.footerTitle" xml:space="preserve">
         <source>Enter your account JID</source>
-        <target>Enter your account JID</target>
+        <target state="needs-translation">Enter your account JID</target>
         <note>Class = "UITableViewSection"; footerTitle = "Enter your account JID"; ObjectID = "SKG-bP-NPK";</note>
       </trans-unit>
       <trans-unit id="SKG-bP-NPK.headerTitle" xml:space="preserve">
         <source> XMPP ID</source>
-        <target> XMPP ID</target>
+        <target state="needs-translation"> XMPP ID</target>
         <note>Class = "UITableViewSection"; headerTitle = " XMPP ID"; ObjectID = "SKG-bP-NPK";</note>
       </trans-unit>
       <trans-unit id="T1r-DU-iqs.placeholder" xml:space="preserve">
@@ -223,7 +223,7 @@
       </trans-unit>
       <trans-unit id="aKW-CM-bl2.text" xml:space="preserve">
         <source>When in Away/XA/DND state</source>
-        <target>When in Away/XA/DND state</target>
+        <target state="needs-translation">When in Away/XA/DND state</target>
         <note>Class = "UILabel"; text = "When in Away/XA/DND state"; ObjectID = "aKW-CM-bl2";</note>
       </trans-unit>
       <trans-unit id="bDD-UG-Fxr.text" xml:space="preserve">
@@ -238,7 +238,7 @@
       </trans-unit>
       <trans-unit id="gUr-GY-P3A.text" xml:space="preserve">
         <source>OMEMO fingerprint</source>
-        <target>OMEMO fingerprint</target>
+        <target state="needs-translation">OMEMO fingerprint</target>
         <note>Class = "UILabel"; text = "OMEMO fingerprint"; ObjectID = "gUr-GY-P3A";</note>
       </trans-unit>
       <trans-unit id="gzC-dB-kIF.title" xml:space="preserve">
@@ -262,8 +262,8 @@
         <note>Class = "UILabel"; text = "add phone"; ObjectID = "jAE-vq-Vfj";</note>
       </trans-unit>
       <trans-unit id="qTN-JT-Mcr.placeholder" xml:space="preserve">
-        <source>user@domain.com</source>
-        <target>user@domain.com</target>
+        <source>user@example.com</source>
+        <target>user@example.com</target>
         <note>Class = "UITextField"; placeholder = "user@domain.com"; ObjectID = "qTN-JT-Mcr";</note>
       </trans-unit>
       <trans-unit id="t3T-uh-mob.text" xml:space="preserve">
@@ -329,8 +329,8 @@
         <note>Class = "UILabel"; text = "Offline"; ObjectID = "54Z-E5-MZp";</note>
       </trans-unit>
       <trans-unit id="552-vb-Heg.headerTitle" xml:space="preserve">
-        <source> History</source>
-        <target> History</target>
+        <source>History</source>
+        <target>History</target>
         <note>Class = "UITableViewSection"; headerTitle = " History"; ObjectID = "552-vb-Heg";</note>
       </trans-unit>
       <trans-unit id="BJz-HA-uv6.text" xml:space="preserve">
@@ -345,7 +345,7 @@
       </trans-unit>
       <trans-unit id="IGA-uE-mHb.title" xml:space="preserve">
         <source>Room details</source>
-        <target>Room details</target>
+        <target state="needs-translation">Room details</target>
         <note>Class = "UITableViewController"; title = "Room details"; ObjectID = "IGA-uE-mHb";</note>
       </trans-unit>
       <trans-unit id="NK6-IG-GRa.text" xml:space="preserve">
@@ -379,8 +379,8 @@
         <note>Class = "UITableViewSection"; footerTitle = "Push notification support depends on the XMPP server which you are using and may not work in some cases even if it's supported and enabled on the group chat"; ObjectID = "bRu-vo-fpu";</note>
       </trans-unit>
       <trans-unit id="bRu-vo-fpu.headerTitle" xml:space="preserve">
-        <source> Settings</source>
-        <target> Settings</target>
+        <source>Settings</source>
+        <target>Settings</target>
         <note>Class = "UITableViewSection"; headerTitle = " Settings"; ObjectID = "bRu-vo-fpu";</note>
       </trans-unit>
       <trans-unit id="exK-ZH-jpA.text" xml:space="preserve">
@@ -405,7 +405,7 @@
       </trans-unit>
       <trans-unit id="lEG-rf-VV5.text" xml:space="preserve">
         <source>Room name</source>
-        <target>Room name</target>
+        <target state="needs-translation">Room name</target>
         <note>Class = "UILabel"; text = "Room name"; ObjectID = "lEG-rf-VV5";</note>
       </trans-unit>
       <trans-unit id="t0j-TN-qOY.text" xml:space="preserve">
@@ -643,13 +643,13 @@ of the date such litigation is filed.
         <note>Class = "UIViewController"; title = "Chats"; ObjectID = "9pv-A4-QxB";</note>
       </trans-unit>
       <trans-unit id="BM3-28-huR.placeholder" xml:space="preserve">
-        <source>Enter jid</source>
-        <target>Enter JID</target>
+        <source>Enter JID</source>
+        <target state="needs-translation">Enter JID</target>
         <note>Class = "UITextField"; placeholder = "Enter jid"; ObjectID = "BM3-28-huR";</note>
       </trans-unit>
       <trans-unit id="BM3-28-huR.text" xml:space="preserve">
         <source>local_user@example.com</source>
-        <target>local_user@example.com</target>
+        <target state="needs-translation">local_user@example.com</target>
         <note>Class = "UITextField"; text = "local_user@example.com"; ObjectID = "BM3-28-huR";</note>
       </trans-unit>
       <trans-unit id="C1j-4i-HDP.title" xml:space="preserve">
@@ -719,12 +719,12 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="Q28-Ig-9NP.headerTitle" xml:space="preserve">
         <source>PRESENCE</source>
-        <target>PRESENCE</target>
+        <target state="needs-translation">PRESENCE</target>
         <note>Class = "UITableViewSection"; headerTitle = "PRESENCE"; ObjectID = "Q28-Ig-9NP";</note>
       </trans-unit>
       <trans-unit id="Qgj-eQ-geg.headerTitle" xml:space="preserve">
         <source>JID</source>
-        <target>JID</target>
+        <target state="needs-translation">JID</target>
         <note>Class = "UITableViewSection"; headerTitle = "JID"; ObjectID = "Qgj-eQ-geg";</note>
       </trans-unit>
       <trans-unit id="Qr0-8H-IJq.text" xml:space="preserve">
@@ -774,7 +774,7 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="ZzM-t7-zvW.normalTitle" xml:space="preserve">
         <source>Sign in to an existing XMPP account</source>
-        <target>Sign in to an existing XMPP account</target>
+        <target state="needs-translation">Sign in to an existing XMPP account</target>
         <note>Class = "UIButton"; normalTitle = "Sign in to an existing XMPP account"; ObjectID = "ZzM-t7-zvW";</note>
       </trans-unit>
       <trans-unit id="acW-dT-cKf.title" xml:space="preserve">
@@ -793,8 +793,8 @@ of the date such litigation is filed.
         <note>Class = "UILabel"; text = "Label"; ObjectID = "b03-5W-Imh";</note>
       </trans-unit>
       <trans-unit id="bNp-S8-ulX.title" xml:space="preserve">
-        <source>Informations</source>
-        <target>Informations</target>
+        <source>Information</source>
+        <target state="needs-translation">Information</target>
         <note>Class = "UINavigationItem"; title = "Informations"; ObjectID = "bNp-S8-ulX";</note>
       </trans-unit>
       <trans-unit id="e6z-jk-XtN.title" xml:space="preserve">
@@ -804,7 +804,7 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="ffo-7n-Tn2.text" xml:space="preserve">
         <source>Receive presence updates</source>
-        <target>Receive presence updates</target>
+        <target state="needs-translation">Receive presence updates</target>
         <note>Class = "UILabel"; text = "Receive presence updates"; ObjectID = "ffo-7n-Tn2";</note>
       </trans-unit>
       <trans-unit id="g8N-kr-fax.text" xml:space="preserve">
@@ -844,7 +844,7 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="m0n-Ls-5LF.text" xml:space="preserve">
         <source>Here I'm again...</source>
-        <target>Here I'm again...</target>
+        <target state="needs-translation">Here I'm again...</target>
         <note>Class = "UILabel"; text = "Here I'm again..."; ObjectID = "m0n-Ls-5LF";</note>
       </trans-unit>
       <trans-unit id="qjs-BY-Nid.text" xml:space="preserve">
@@ -864,7 +864,7 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="upM-mW-rMZ.text" xml:space="preserve">
         <source>Send presence updates</source>
-        <target>Send presence updates</target>
+        <target state="needs-translation">Send presence updates</target>
         <note>Class = "UILabel"; text = "Send presence updates"; ObjectID = "upM-mW-rMZ";</note>
       </trans-unit>
       <trans-unit id="vEG-as-CLS.text" xml:space="preserve">
@@ -931,12 +931,12 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="94L-uC-ldZ.footerTitle" xml:space="preserve">
         <source>Enter domain name of a component with channel or leave blank to automatically detect components with channels</source>
-        <target>Enter domain name of a component with channel or leave blank to automatically detect components with channels</target>
+        <target state="needs-translation">Enter domain name of a component with channel or leave blank to automatically detect components with channels</target>
         <note>Class = "UITableViewSection"; footerTitle = "Enter domain name of a component with channel or leave blank to automatically detect components with channels"; ObjectID = "94L-uC-ldZ";</note>
       </trans-unit>
       <trans-unit id="94L-uC-ldZ.headerTitle" xml:space="preserve">
         <source>Component domain</source>
-        <target>Component domain</target>
+        <target state="needs-translation">Component domain</target>
         <note>Class = "UITableViewSection"; headerTitle = "Component domain"; ObjectID = "94L-uC-ldZ";</note>
       </trans-unit>
       <trans-unit id="491-DV-e2a.text" xml:space="preserve">
@@ -986,7 +986,7 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="NyO-PD-t9d.headerTitle" xml:space="preserve">
         <source>Nickname</source>
-        <target>Nickname</target>
+        <target state="needs-translation">Nickname</target>
         <note>Class = "UITableViewSection"; headerTitle = "Nickname"; ObjectID = "NyO-PD-t9d";</note>
       </trans-unit>
       <trans-unit id="O9e-sP-5IO.text" xml:space="preserve">
@@ -1288,7 +1288,7 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="LAc-oF-22z.text" xml:space="preserve">
         <source>By presence and time</source>
-        <target>By presence and time</target>
+        <target state="needs-translation">By presence and time</target>
         <note>Class = "UILabel"; text = "By presence and time"; ObjectID = "LAc-oF-22z";</note>
       </trans-unit>
       <trans-unit id="MGl-L6-Fs3.text" xml:space="preserve">
@@ -1337,8 +1337,8 @@ of the date such litigation is filed.
         <note>Class = "UILabel"; text = "Experimental"; ObjectID = "YDd-q8-r7f";</note>
       </trans-unit>
       <trans-unit id="bKW-ln-Kez.text" xml:space="preserve">
-        <source>Videos quality</source>
-        <target>Videos quality</target>
+        <source>Video quality</source>
+        <target>Video quality</target>
         <note>Class = "UILabel"; text = "Videos quality"; ObjectID = "bKW-ln-Kez";</note>
       </trans-unit>
       <trans-unit id="bPa-aU-WFn.text" xml:space="preserve">
@@ -1347,8 +1347,8 @@ of the date such litigation is filed.
         <note>Class = "UILabel"; text = "None"; ObjectID = "bPa-aU-WFn";</note>
       </trans-unit>
       <trans-unit id="bbT-7s-6ph.text" xml:space="preserve">
-        <source>Photos quality</source>
-        <target>Photos quality</target>
+        <source>Photo quality</source>
+        <target>Photo quality</target>
         <note>Class = "UILabel"; text = "Photos quality"; ObjectID = "bbT-7s-6ph";</note>
       </trans-unit>
       <trans-unit id="bj6-vP-3A7.text" xml:space="preserve">
@@ -1618,18 +1618,18 @@ of the date such litigation is filed.
         <note>Privacy - Location When In Use Usage Description</note>
       </trans-unit>
       <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
-        <source>Uses microphone for VoIP calls</source>
-        <target>Uses microphone for VoIP calls</target>
+        <source>Uses microphone for VoIP calls and audio messages</source>
+        <target>Uses microphone for VoIP calls and audio messages</target>
         <note>Privacy - Microphone Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
-        <source>Used to save attachements from conversations</source>
-        <target>Used to save attachements from conversations</target>
+        <source>Used to save attachments from conversations</source>
+        <target>Used to save attachments from conversations</target>
         <note>Privacy - Photo Library Additions Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription" xml:space="preserve">
-        <source>Used to select avatar</source>
-        <target>Used to select avatar</target>
+        <source>Used to select profile picture and share photos with contacts</source>
+        <target>Used to select profile picture and share photos with contacts</target>
         <note>Privacy - Photo Library Usage Description</note>
       </trans-unit>
     </body>
@@ -1640,8 +1640,8 @@ of the date such litigation is filed.
     </header>
     <body>
       <trans-unit id=" server returned an error on the request to enable push notifications. You can try to enable this feature later on from the account settings." xml:space="preserve">
-        <source> server returned an error on the request to enable push notifications. You can try to enable this feature later on from the account settings.</source>
-        <target> server returned an error on the request to enable push notifications. You can try to enable this feature later on from the account settings.</target>
+        <source>The server returned an error on the request to enable push notifications. You can try to enable this feature later on from the account settings.</source>
+        <target>The server returned an error on the request to enable push notifications. You can try to enable this feature later on from the account settings.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%d MB" xml:space="preserve">
@@ -1737,7 +1737,7 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="Before changing roster you need to connect to server. Do you wish to do this now?" xml:space="preserve">
         <source>Before changing roster you need to connect to server. Do you wish to do this now?</source>
-        <target>Before changing roster you need to connect to server. Do you wish to do this now?</target>
+        <target state="needs-translation">Before changing roster you need to connect to server. Do you wish to do this now?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="By availability and time" xml:space="preserve">
@@ -1781,8 +1781,8 @@ of the date such litigation is filed.
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Change avatar" xml:space="preserve">
-        <source>Change avatar</source>
-        <target>Change avatar</target>
+        <source>Change profile picture</source>
+        <target>Change profile picture</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Change subject" xml:space="preserve">
@@ -1831,8 +1831,8 @@ of the date such litigation is filed.
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Could not set group chat avatar. The server responded with an error:" xml:space="preserve">
-        <source>Could not set group chat avatar. The server responded with an error:</source>
-        <target>Could not set group chat avatar. The server responded with an error:</target>
+        <source>Could not set group chat picture. The server responded with an error:</source>
+        <target>Could not set group chat picture. The server responded with an error:</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Create" xml:space="preserve">
@@ -1917,7 +1917,7 @@ of the date such litigation is filed.
       </trans-unit>
       <trans-unit id="Enter default nickname to use in chats" xml:space="preserve">
         <source>Enter default nickname to use in chats</source>
-        <target>Enter default nickname to use in chats</target>
+        <target state="needs-translation">Enter default nickname to use in chats</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Enter message to send to:" xml:space="preserve">
@@ -1961,14 +1961,14 @@ of the date such litigation is filed.
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Flush" xml:space="preserve">
-        <source>Flush</source>
-        <target>Flush</target>
+        <source>Delete all</source>
+        <target>Delete all</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="For best experience it is suggested to enable Message Archving with automatic message synchronization of at least last 12 hours.&#10;Do you wish to do this now?" xml:space="preserve">
-        <source>For best experience it is suggested to enable Message Archving with automatic message synchronization of at least last 12 hours.
+        <source>For best experience it is suggested to enable Message Archiving with automatic message synchronization of at least last 12 hours.
 Do you wish to do this now?</source>
-        <target>For best experience it is suggested to enable Message Archving with automatic message synchronization of at least last 12 hours.
+        <target>For best experience it is suggested to enable Message Archiving with automatic message synchronization of at least last 12 hours.
 Do you wish to do this now?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
@@ -2019,7 +2019,7 @@ Do you wish to do this now?</target>
       </trans-unit>
       <trans-unit id="It was not possible to contact XMPP server and sign in." xml:space="preserve">
         <source>It was not possible to contact XMPP server and sign in.</source>
-        <target>It was not possible to contact XMPP server and sign in.</target>
+        <target state="needs-translation">It was not possible to contact XMPP server and sign in.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="It was not possible to destroy channel %@. Server returned an error:" xml:space="preserve">
@@ -2049,7 +2049,7 @@ Do you wish to do this now?</target>
       </trans-unit>
       <trans-unit id="Key not generated!" xml:space="preserve">
         <source>Key not generated!</source>
-        <target>Key not generated!</target>
+        <target state="needs-translation">Key not generated!</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Last %d days" xml:space="preserve">
@@ -2144,7 +2144,7 @@ Do you wish to do this now?</target>
       </trans-unit>
       <trans-unit id="Nickname" xml:space="preserve">
         <source>Nickname</source>
-        <target>Nickname</target>
+        <target state="needs-translation">Nickname</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No" xml:space="preserve">
@@ -2223,8 +2223,8 @@ Do you wish to do this now?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Other devices fingerprints" xml:space="preserve">
-        <source>Other devices fingerprints</source>
-        <target>Other devices fingerprints</target>
+        <source>Other devices' fingerprints</source>
+        <target>Other devices' fingerprints</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Phones" xml:space="preserve">
@@ -2449,10 +2449,10 @@ Do you wish to do this now?</target>
       </trans-unit>
       <trans-unit id="Snikket can be automatically notified by compatible XMPP servers about new messages when it is in background or stopped.&#10;If enabled, notifications about new messages will be forwarded to our push component and delivered to the device. These notifications may contain message senders jid and part of a message.&#10;Do you want to enable push notifications?" xml:space="preserve">
         <source>Snikket can be automatically notified by compatible XMPP servers about new messages when it is in background or stopped.
-If enabled, notifications about new messages will be forwarded to our push component and delivered to the device. These notifications may contain message senders jid and part of a message.
+If enabled, notifications about new messages will be forwarded to our push component and delivered to the device. These notifications may contain message senders JID and part of a message.
 Do you want to enable push notifications?</source>
-        <target>Snikket can be automatically notified by compatible XMPP servers about new messages when it is in background or stopped.
-If enabled, notifications about new messages will be forwarded to our push component and delivered to the device. These notifications may contain message senders jid and part of a message.
+        <target state="needs-translation">Snikket can be automatically notified by compatible XMPP servers about new messages when it is in background or stopped.
+If enabled, notifications about new messages will be forwarded to our push component and delivered to the device. These notifications may contain message senders JID and part of a message.
 Do you want to enable push notifications?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
@@ -2472,8 +2472,8 @@ Do you want to enable push notifications?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This room is not capable of sending encrypted messages. Please change encryption settings to be able to send messages" xml:space="preserve">
-        <source>This room is not capable of sending encrypted messages. Please change encryption settings to be able to send messages</source>
-        <target>This room is not capable of sending encrypted messages. Please change encryption settings to be able to send messages</target>
+        <source>This chat is not capable of encrypted messages. Please change encryption settings to be able to send messages</source>
+        <target>This chat is not capable of encrypted messages. Please change encryption settings to be able to send messages</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This will delete all the message history for this chat. Continue?" xml:space="preserve">
@@ -2492,8 +2492,8 @@ Do you want to enable push notifications?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unkown error occured" xml:space="preserve">
-        <source>Unkown error occured</source>
-        <target>Unkown error occured</target>
+        <source>Unknown error occurred</source>
+        <target>Unknown error occurred</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unlimited" xml:space="preserve">
@@ -2502,8 +2502,8 @@ Do you want to enable push notifications?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Used image and video quality may impact storage and network usage" xml:space="preserve">
-        <source>Used image and video quality may impact storage and network usage</source>
-        <target>Used image and video quality may impact storage and network usage</target>
+        <source>Higher image and video quality may increase storage and network usage</source>
+        <target>Higher image and video quality may increase storage and network usage</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="User with provided username already exists" xml:space="preserve">
@@ -2544,8 +2544,8 @@ Do you wish to enable?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="You are invited to join conversation at" xml:space="preserve">
-        <source>You are invited to join conversation at</source>
-        <target>You are invited to join conversation at</target>
+        <source>You are invited to join a conversation at</source>
+        <target>You are invited to join a conversation at</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="You are leaving the group chat" xml:space="preserve">
@@ -2555,9 +2555,9 @@ Do you wish to enable?</target>
       </trans-unit>
       <trans-unit id="You are not connected to room.&#10;Please wait reconnection to room" xml:space="preserve">
         <source>You are not connected to room.
-Please wait reconnection to room</source>
-        <target>You are not connected to room.
-Please wait reconnection to room</target>
+Please wait for reconnection to room</source>
+        <target state="needs-translation">You are not connected to room.
+Please wait for reconnection to room</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="You are not joined to the channel." xml:space="preserve">
@@ -2566,10 +2566,10 @@ Please wait reconnection to room</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="You've left there room %@ and push notifications for this room were disabled!&#10;You may need to reenable them on other devices." xml:space="preserve">
-        <source>You've left there room %@ and push notifications for this room were disabled!
-You may need to reenable them on other devices.</source>
-        <target>You've left there room %@ and push notifications for this room were disabled!
-You may need to reenable them on other devices.</target>
+        <source>You've left the room %@ and push notifications for this room were disabled!
+You may need to re-enable them on other devices.</source>
+        <target>You've left the room %@ and push notifications for this room were disabled!
+You may need to re-enable them on other devices.</target>
         <note>Placeholder is the Group Name</note>
       </trans-unit>
       <trans-unit id="Your Name" xml:space="preserve">
