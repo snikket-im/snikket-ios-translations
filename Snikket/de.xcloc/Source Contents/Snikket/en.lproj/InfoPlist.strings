@@ -1,0 +1,14 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Snikket";
+/* Bundle name */
+"CFBundleName" = "Snikket";
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "Uses camera to capture photo for avatar and for VoIP calls";
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "Allows you to share your location with others";
+/* Privacy - Microphone Usage Description */
+"NSMicrophoneUsageDescription" = "Uses microphone for VoIP calls";
+/* Privacy - Photo Library Additions Usage Description */
+"NSPhotoLibraryAddUsageDescription" = "Used to save attachements from conversations";
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "Used to select avatar";

@@ -1,0 +1,2334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="NotificationService/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="de">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>NotificationService</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>NotificationService</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Snikket - Share/Base.lproj/MainInterface.storyboard" source-language="en" target-language="de" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+    </header>
+    <body>
+      <trans-unit id="6l2-wd-vXh.title" xml:space="preserve">
+        <source>Accounts</source>
+        <target>Accounts</target>
+        <note>Class = "UITableViewController"; title = "Accounts"; ObjectID = "6l2-wd-vXh";</note>
+      </trans-unit>
+      <trans-unit id="95D-JK-fLM.text" xml:space="preserve">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "95D-JK-fLM";</note>
+      </trans-unit>
+      <trans-unit id="Geq-xy-Tr2.text" xml:space="preserve">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "Geq-xy-Tr2";</note>
+      </trans-unit>
+      <trans-unit id="wpy-g7-270.title" xml:space="preserve">
+        <source>Recipients</source>
+        <target>Recipients</target>
+        <note>Class = "UITableViewController"; title = "Recipients"; ObjectID = "wpy-g7-270";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Snikket - Share/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="de">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Share with Snikket</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Snikket - Share</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Snikket/Base.lproj/Account.storyboard" source-language="en" target-language="de" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+    </header>
+    <body>
+      <trans-unit id="4hs-GL-9fd.placeholder" xml:space="preserve">
+        <source>Country</source>
+        <target>Country</target>
+        <note>Class = "UITextField"; placeholder = "Country"; ObjectID = "4hs-GL-9fd";</note>
+      </trans-unit>
+      <trans-unit id="06Y-Cg-0Q3.text" xml:space="preserve">
+        <source>add email</source>
+        <target>add email</target>
+        <note>Class = "UILabel"; text = "add email"; ObjectID = "06Y-Cg-0Q3";</note>
+      </trans-unit>
+      <trans-unit id="7KN-S3-8XR.placeholder" xml:space="preserve">
+        <source>Required</source>
+        <target>Required</target>
+        <note>Class = "UITextField"; placeholder = "Required"; ObjectID = "7KN-S3-8XR";</note>
+      </trans-unit>
+      <trans-unit id="7cH-MH-cya.text" xml:space="preserve">
+        <source>Scan QR Code to add me as a buddy</source>
+        <target>Scan QR Code to add me as a buddy</target>
+        <note>Class = "UILabel"; text = "Scan QR Code to add me as a buddy"; ObjectID = "7cH-MH-cya";</note>
+      </trans-unit>
+      <trans-unit id="9PW-Rb-rop.headerTitle" xml:space="preserve">
+        <source>Message Archiving</source>
+        <target>Message Archiving</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Message Archiving"; ObjectID = "9PW-Rb-rop";</note>
+      </trans-unit>
+      <trans-unit id="27D-rn-4zp.text" xml:space="preserve">
+        <source>Nickname</source>
+        <target>Nickname</target>
+        <note>Class = "UILabel"; text = "Nickname"; ObjectID = "27D-rn-4zp";</note>
+      </trans-unit>
+      <trans-unit id="70p-aF-3x5.text" xml:space="preserve">
+        <source>Change account settings</source>
+        <target>Change account settings</target>
+        <note>Class = "UILabel"; text = "Change account settings"; ObjectID = "70p-aF-3x5";</note>
+      </trans-unit>
+      <trans-unit id="A24-eF-tzh.title" xml:space="preserve">
+        <source>OMEMO fingerprints</source>
+        <target>OMEMO fingerprints</target>
+        <note>Class = "UITableViewController"; title = "OMEMO fingerprints"; ObjectID = "A24-eF-tzh";</note>
+      </trans-unit>
+      <trans-unit id="BE2-bI-S0Z.text" xml:space="preserve">
+        <source>9dfacd3d 410d52bc 35f8e816 c7efc5b6 efe138e5 452a9e96 f30c2839 63b46241 </source>
+        <target>9dfacd3d 410d52bc 35f8e816 c7efc5b6 efe138e5 452a9e96 f30c2839 63b46241 </target>
+        <note>Class = "UILabel"; text = "9dfacd3d 410d52bc 35f8e816 c7efc5b6 efe138e5 452a9e96 f30c2839 63b46241 "; ObjectID = "BE2-bI-S0Z";</note>
+      </trans-unit>
+      <trans-unit id="Clb-vT-t5A.placeholder" xml:space="preserve">
+        <source>Type</source>
+        <target>Type</target>
+        <note>Class = "UITextField"; placeholder = "Type"; ObjectID = "Clb-vT-t5A";</note>
+      </trans-unit>
+      <trans-unit id="Cmz-iN-c4d.placeholder" xml:space="preserve">
+        <source>City</source>
+        <target>City</target>
+        <note>Class = "UITextField"; placeholder = "City"; ObjectID = "Cmz-iN-c4d";</note>
+      </trans-unit>
+      <trans-unit id="Et5-H6-t7C.headerTitle" xml:space="preserve">
+        <source>Encryption</source>
+        <target>Encryption</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Encryption"; ObjectID = "Et5-H6-t7C";</note>
+      </trans-unit>
+      <trans-unit id="FeX-5F-H2m.text" xml:space="preserve">
+        <source>Subtitle</source>
+        <target>Subtitle</target>
+        <note>Class = "UILabel"; text = "Subtitle"; ObjectID = "FeX-5F-H2m";</note>
+      </trans-unit>
+      <trans-unit id="GNS-EF-AqY.text" xml:space="preserve">
+        <source>Synchronization</source>
+        <target>Synchronization</target>
+        <note>Class = "UILabel"; text = "Synchronization"; ObjectID = "GNS-EF-AqY";</note>
+      </trans-unit>
+      <trans-unit id="GTa-Ee-HQT.text" xml:space="preserve">
+        <source>Enabled</source>
+        <target>Enabled</target>
+        <note>Class = "UILabel"; text = "Enabled"; ObjectID = "GTa-Ee-HQT";</note>
+      </trans-unit>
+      <trans-unit id="GWw-NK-6oU.text" xml:space="preserve">
+        <source>Delete</source>
+        <target>Delete</target>
+        <note>Class = "UILabel"; text = "Delete"; ObjectID = "GWw-NK-6oU";</note>
+      </trans-unit>
+      <trans-unit id="J9o-cf-vMy.text" xml:space="preserve">
+        <source>Automatic synchronization</source>
+        <target>Automatic synchronization</target>
+        <note>Class = "UILabel"; text = "Automatic synchronization"; ObjectID = "J9o-cf-vMy";</note>
+      </trans-unit>
+      <trans-unit id="JkB-3h-A61.text" xml:space="preserve">
+        <source>Detail</source>
+        <target>Detail</target>
+        <note>Class = "UILabel"; text = "Detail"; ObjectID = "JkB-3h-A61";</note>
+      </trans-unit>
+      <trans-unit id="KgL-GY-IFp.placeholder" xml:space="preserve">
+        <source>Street</source>
+        <target>Street</target>
+        <note>Class = "UITextField"; placeholder = "Street"; ObjectID = "KgL-GY-IFp";</note>
+      </trans-unit>
+      <trans-unit id="LO4-Ys-cek.headerTitle" xml:space="preserve">
+        <source> Password</source>
+        <target> Password</target>
+        <note>Class = "UITableViewSection"; headerTitle = " Password"; ObjectID = "LO4-Ys-cek";</note>
+      </trans-unit>
+      <trans-unit id="Mo3-sc-7ss.normalTitle" xml:space="preserve">
+        <source>Change avatar</source>
+        <target>Change avatar</target>
+        <note>Class = "UIButton"; normalTitle = "Change avatar"; ObjectID = "Mo3-sc-7ss";</note>
+      </trans-unit>
+      <trans-unit id="NK4-tE-QSu.placeholder" xml:space="preserve">
+        <source>Type</source>
+        <target>Type</target>
+        <note>Class = "UITextField"; placeholder = "Type"; ObjectID = "NK4-tE-QSu";</note>
+      </trans-unit>
+      <trans-unit id="NUu-KT-QM5.placeholder" xml:space="preserve">
+        <source>Code</source>
+        <target>Code</target>
+        <note>Class = "UITextField"; placeholder = "Code"; ObjectID = "NUu-KT-QM5";</note>
+      </trans-unit>
+      <trans-unit id="PvC-LX-0Sp.headerTitle" xml:space="preserve">
+        <source>Push Notifications</source>
+        <target>Push Notifications</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Push Notifications"; ObjectID = "PvC-LX-0Sp";</note>
+      </trans-unit>
+      <trans-unit id="R0m-k2-q64.title" xml:space="preserve">
+        <source>Next</source>
+        <target>Next</target>
+        <note>Class = "UIBarButtonItem"; title = "Next"; ObjectID = "R0m-k2-q64";</note>
+      </trans-unit>
+      <trans-unit id="SKG-bP-NPK.footerTitle" xml:space="preserve">
+        <source>Enter your account JID</source>
+        <target>Enter your account JID</target>
+        <note>Class = "UITableViewSection"; footerTitle = "Enter your account JID"; ObjectID = "SKG-bP-NPK";</note>
+      </trans-unit>
+      <trans-unit id="SKG-bP-NPK.headerTitle" xml:space="preserve">
+        <source> XMPP ID</source>
+        <target> XMPP ID</target>
+        <note>Class = "UITableViewSection"; headerTitle = " XMPP ID"; ObjectID = "SKG-bP-NPK";</note>
+      </trans-unit>
+      <trans-unit id="T1r-DU-iqs.placeholder" xml:space="preserve">
+        <source>Phone number</source>
+        <target>Phone number</target>
+        <note>Class = "UITextField"; placeholder = "Phone number"; ObjectID = "T1r-DU-iqs";</note>
+      </trans-unit>
+      <trans-unit id="UQ1-rc-tuY.placeholder" xml:space="preserve">
+        <source>Type</source>
+        <target>Type</target>
+        <note>Class = "UITextField"; placeholder = "Type"; ObjectID = "UQ1-rc-tuY";</note>
+      </trans-unit>
+      <trans-unit id="XLZ-oR-88H.text" xml:space="preserve">
+        <source>Last 24 hours</source>
+        <target>Last 24 hours</target>
+        <note>Class = "UILabel"; text = "Last 24 hours"; ObjectID = "XLZ-oR-88H";</note>
+      </trans-unit>
+      <trans-unit id="ZHc-Ml-5eX.text" xml:space="preserve">
+        <source>Enabled</source>
+        <target>Enabled</target>
+        <note>Class = "UILabel"; text = "Enabled"; ObjectID = "ZHc-Ml-5eX";</note>
+      </trans-unit>
+      <trans-unit id="aKW-CM-bl2.text" xml:space="preserve">
+        <source>When in Away/XA/DND state</source>
+        <target>When in Away/XA/DND state</target>
+        <note>Class = "UILabel"; text = "When in Away/XA/DND state"; ObjectID = "aKW-CM-bl2";</note>
+      </trans-unit>
+      <trans-unit id="bDD-UG-Fxr.text" xml:space="preserve">
+        <source>John Doe</source>
+        <target>John Doe</target>
+        <note>Class = "UILabel"; text = "John Doe"; ObjectID = "bDD-UG-Fxr";</note>
+      </trans-unit>
+      <trans-unit id="fRX-fN-yOj.text" xml:space="preserve">
+        <source>add address</source>
+        <target>add address</target>
+        <note>Class = "UILabel"; text = "add address"; ObjectID = "fRX-fN-yOj";</note>
+      </trans-unit>
+      <trans-unit id="gUr-GY-P3A.text" xml:space="preserve">
+        <source>OMEMO fingerprint</source>
+        <target>OMEMO fingerprint</target>
+        <note>Class = "UILabel"; text = "OMEMO fingerprint"; ObjectID = "gUr-GY-P3A";</note>
+      </trans-unit>
+      <trans-unit id="gzC-dB-kIF.title" xml:space="preserve">
+        <source>Account settings</source>
+        <target>Account settings</target>
+        <note>Class = "UINavigationItem"; title = "Account settings"; ObjectID = "gzC-dB-kIF";</note>
+      </trans-unit>
+      <trans-unit id="i2f-mN-qTd.text" xml:space="preserve">
+        <source>Address</source>
+        <target>Address</target>
+        <note>Class = "UILabel"; text = "Address"; ObjectID = "i2f-mN-qTd";</note>
+      </trans-unit>
+      <trans-unit id="ijD-Kb-uyj.title" xml:space="preserve">
+        <source>Done</source>
+        <target>Done</target>
+        <note>Class = "UIBarButtonItem"; title = "Done"; ObjectID = "ijD-Kb-uyj";</note>
+      </trans-unit>
+      <trans-unit id="jAE-vq-Vfj.text" xml:space="preserve">
+        <source>add phone</source>
+        <target>add phone</target>
+        <note>Class = "UILabel"; text = "add phone"; ObjectID = "jAE-vq-Vfj";</note>
+      </trans-unit>
+      <trans-unit id="qTN-JT-Mcr.placeholder" xml:space="preserve">
+        <source>user@domain.com</source>
+        <target>user@domain.com</target>
+        <note>Class = "UITextField"; placeholder = "user@domain.com"; ObjectID = "qTN-JT-Mcr";</note>
+      </trans-unit>
+      <trans-unit id="t3T-uh-mob.text" xml:space="preserve">
+        <source>Server features</source>
+        <target>Server features</target>
+        <note>Class = "UILabel"; text = "Server features"; ObjectID = "t3T-uh-mob";</note>
+      </trans-unit>
+      <trans-unit id="v8B-ee-zAk.headerTitle" xml:space="preserve">
+        <source>General</source>
+        <target>General</target>
+        <note>Class = "UITableViewSection"; headerTitle = "General"; ObjectID = "v8B-ee-zAk";</note>
+      </trans-unit>
+      <trans-unit id="vF4-tE-C74.text" xml:space="preserve">
+        <source>Company, Inc.</source>
+        <target>Company, Inc.</target>
+        <note>Class = "UILabel"; text = "Company, Inc."; ObjectID = "vF4-tE-C74";</note>
+      </trans-unit>
+      <trans-unit id="vjD-aw-Ugt.text" xml:space="preserve">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "vjD-aw-Ugt";</note>
+      </trans-unit>
+      <trans-unit id="wW7-3f-Kck.title" xml:space="preserve">
+        <source>Server Features</source>
+        <target>Server Features</target>
+        <note>Class = "UITableViewController"; title = "Server Features"; ObjectID = "wW7-3f-Kck";</note>
+      </trans-unit>
+      <trans-unit id="wbI-5v-vug.text" xml:space="preserve">
+        <source>Enabled</source>
+        <target>Enabled</target>
+        <note>Class = "UILabel"; text = "Enabled"; ObjectID = "wbI-5v-vug";</note>
+      </trans-unit>
+      <trans-unit id="ynp-RE-XlY.placeholder" xml:space="preserve">
+        <source>Email address</source>
+        <target>Email address</target>
+        <note>Class = "UITextField"; placeholder = "Email address"; ObjectID = "ynp-RE-XlY";</note>
+      </trans-unit>
+      <trans-unit id="zhp-jp-Aoq.text" xml:space="preserve">
+        <source>Title</source>
+        <target>Title</target>
+        <note>Class = "UILabel"; text = "Title"; ObjectID = "zhp-jp-Aoq";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Snikket/Base.lproj/Groupchat.storyboard" source-language="en" target-language="de" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+    </header>
+    <body>
+      <trans-unit id="2ZD-5S-4hK.headerTitle" xml:space="preserve">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UITableViewSection"; headerTitle = " "; ObjectID = "2ZD-5S-4hK";</note>
+      </trans-unit>
+      <trans-unit id="02f-aw-3Zd.text" xml:space="preserve">
+        <source>Notifications</source>
+        <target>Notifications</target>
+        <note>Class = "UILabel"; text = "Notifications"; ObjectID = "02f-aw-3Zd";</note>
+      </trans-unit>
+      <trans-unit id="54Z-E5-MZp.text" xml:space="preserve">
+        <source>Offline</source>
+        <target>Offline</target>
+        <note>Class = "UILabel"; text = "Offline"; ObjectID = "54Z-E5-MZp";</note>
+      </trans-unit>
+      <trans-unit id="552-vb-Heg.headerTitle" xml:space="preserve">
+        <source> History</source>
+        <target> History</target>
+        <note>Class = "UITableViewSection"; headerTitle = " History"; ObjectID = "552-vb-Heg";</note>
+      </trans-unit>
+      <trans-unit id="BJz-HA-uv6.text" xml:space="preserve">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "BJz-HA-uv6";</note>
+      </trans-unit>
+      <trans-unit id="DQk-sn-hKj.text" xml:space="preserve">
+        <source>Encryption</source>
+        <target>Encryption</target>
+        <note>Class = "UILabel"; text = "Encryption"; ObjectID = "DQk-sn-hKj";</note>
+      </trans-unit>
+      <trans-unit id="IGA-uE-mHb.title" xml:space="preserve">
+        <source>Room details</source>
+        <target>Room details</target>
+        <note>Class = "UITableViewController"; title = "Room details"; ObjectID = "IGA-uE-mHb";</note>
+      </trans-unit>
+      <trans-unit id="NK6-IG-GRa.text" xml:space="preserve">
+        <source>When the value of this property is false, the queue actively starts operations that are in the queue and ready to execute.</source>
+        <target>When the value of this property is false, the queue actively starts operations that are in the queue and ready to execute.</target>
+        <note>Class = "UILabel"; text = "When the value of this property is false, the queue actively starts operations that are in the queue and ready to execute."; ObjectID = "NK6-IG-GRa";</note>
+      </trans-unit>
+      <trans-unit id="SOJ-3n-8YB.title" xml:space="preserve">
+        <source>Invite to chat</source>
+        <target>Invite to chat</target>
+        <note>Class = "UITableViewController"; title = "Invite to chat"; ObjectID = "SOJ-3n-8YB";</note>
+      </trans-unit>
+      <trans-unit id="WaG-aF-FTg.text" xml:space="preserve">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "WaG-aF-FTg";</note>
+      </trans-unit>
+      <trans-unit id="YT2-1I-RlM.text" xml:space="preserve">
+        <source>None</source>
+        <target>None</target>
+        <note>Class = "UILabel"; text = "None"; ObjectID = "YT2-1I-RlM";</note>
+      </trans-unit>
+      <trans-unit id="az1-E9-Dy7.text" xml:space="preserve">
+        <source>very long group name written here</source>
+        <target>very long group name written here</target>
+        <note>Class = "UILabel"; text = "very long group name written here"; ObjectID = "az1-E9-Dy7";</note>
+      </trans-unit>
+      <trans-unit id="bRu-vo-fpu.footerTitle" xml:space="preserve">
+        <source>Push notification support depends on the XMPP server which you are using and may not work in some cases even if it's supported and enabled on the group chat</source>
+        <target>Push notification support depends on the XMPP server which you are using and may not work in some cases even if it's supported and enabled on the group chat</target>
+        <note>Class = "UITableViewSection"; footerTitle = "Push notification support depends on the XMPP server which you are using and may not work in some cases even if it's supported and enabled on the group chat"; ObjectID = "bRu-vo-fpu";</note>
+      </trans-unit>
+      <trans-unit id="bRu-vo-fpu.headerTitle" xml:space="preserve">
+        <source> Settings</source>
+        <target> Settings</target>
+        <note>Class = "UITableViewSection"; headerTitle = " Settings"; ObjectID = "bRu-vo-fpu";</note>
+      </trans-unit>
+      <trans-unit id="exK-ZH-jpA.text" xml:space="preserve">
+        <source>When mentioned</source>
+        <target>When mentioned</target>
+        <note>Class = "UILabel"; text = "When mentioned"; ObjectID = "exK-ZH-jpA";</note>
+      </trans-unit>
+      <trans-unit id="iYv-zL-tZT.headerTitle" xml:space="preserve">
+        <source>Subject</source>
+        <target>Subject</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Subject"; ObjectID = "iYv-zL-tZT";</note>
+      </trans-unit>
+      <trans-unit id="jMz-qR-fJ6.text" xml:space="preserve">
+        <source>Push notifications</source>
+        <target>Push notifications</target>
+        <note>Class = "UILabel"; text = "Push notifications"; ObjectID = "jMz-qR-fJ6";</note>
+      </trans-unit>
+      <trans-unit id="kFB-wJ-yDE.text" xml:space="preserve">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "kFB-wJ-yDE";</note>
+      </trans-unit>
+      <trans-unit id="lEG-rf-VV5.text" xml:space="preserve">
+        <source>Room name</source>
+        <target>Room name</target>
+        <note>Class = "UILabel"; text = "Room name"; ObjectID = "lEG-rf-VV5";</note>
+      </trans-unit>
+      <trans-unit id="t0j-TN-qOY.text" xml:space="preserve">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "t0j-TN-qOY";</note>
+      </trans-unit>
+      <trans-unit id="uV2-vL-T54.title" xml:space="preserve">
+        <source>Room Controller</source>
+        <target>Room Controller</target>
+        <note>Class = "UIViewController"; title = "Room Controller"; ObjectID = "uV2-vL-T54";</note>
+      </trans-unit>
+      <trans-unit id="wBw-1J-Xau.text" xml:space="preserve">
+        <source>Attachments</source>
+        <target>Attachments</target>
+        <note>Class = "UILabel"; text = "Attachments"; ObjectID = "wBw-1J-Xau";</note>
+      </trans-unit>
+      <trans-unit id="wNk-Ce-zfI.text" xml:space="preserve">
+        <source>Delete History</source>
+        <target>Delete History</target>
+        <note>Class = "UILabel"; text = "Delete History"; ObjectID = "wNk-Ce-zfI";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Snikket/Base.lproj/Info.storyboard" source-language="en" target-language="de" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+    </header>
+    <body>
+      <trans-unit id="OMw-f8-Hbs.text" xml:space="preserve">
+        <source>============================
+Snikket 
+
+based on SiskinIM by Tigase, Inc.
+Copyright (C) 2019 "Tigase, Inc." &lt;office@tigase.com&gt;
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see https://www.gnu.org/licenses/.
+
+============================
+Copyright (c) 2011, The WebRTC project authors. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+
+  * Redistributions of source code must retain the above copyright
+    notice, this list of conditions and the following disclaimer.
+
+  * Redistributions in binary form must reproduce the above copyright
+    notice, this list of conditions and the following disclaimer in
+    the documentation and/or other materials provided with the
+    distribution.
+
+  * Neither the name of Google nor the names of its contributors may
+    be used to endorse or promote products derived from this software
+    without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+============================
+Additional IP Rights Grant (Patents)
+
+"This implementation" means the copyrightable works distributed by
+Google as part of the WebRTC code package.
+
+Google hereby grants to you a perpetual, worldwide, non-exclusive,
+no-charge, irrevocable (except as stated in this section) patent
+license to make, have made, use, offer to sell, sell, import,
+transfer, and otherwise run, modify and propagate the contents of this
+implementation of the WebRTC code package, where such license applies
+only to those patent claims, both currently owned by Google and
+acquired in the future, licensable by Google that are necessarily
+infringed by this implementation of the WebRTC code package. This
+grant does not include claims that would be infringed only as a
+consequence of further modification of this implementation. If you or
+your agent or exclusive licensee institute or order or agree to the
+institution of patent litigation against any entity (including a
+cross-claim or counterclaim in a lawsuit) alleging that this
+implementation of the WebRTC code package or any code incorporated
+within this implementation of the WebRTC code package constitutes
+direct or contributory patent infringement, or inducement of patent
+infringement, then any patent rights granted to you under this License
+for this implementation of the WebRTC code package shall terminate as
+of the date such litigation is filed.
+</source>
+        <target>============================
+Snikket 
+
+based on SiskinIM by Tigase, Inc.
+Copyright (C) 2019 "Tigase, Inc." &lt;office@tigase.com&gt;
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see https://www.gnu.org/licenses/.
+
+============================
+Copyright (c) 2011, The WebRTC project authors. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+
+  * Redistributions of source code must retain the above copyright
+    notice, this list of conditions and the following disclaimer.
+
+  * Redistributions in binary form must reproduce the above copyright
+    notice, this list of conditions and the following disclaimer in
+    the documentation and/or other materials provided with the
+    distribution.
+
+  * Neither the name of Google nor the names of its contributors may
+    be used to endorse or promote products derived from this software
+    without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+============================
+Additional IP Rights Grant (Patents)
+
+"This implementation" means the copyrightable works distributed by
+Google as part of the WebRTC code package.
+
+Google hereby grants to you a perpetual, worldwide, non-exclusive,
+no-charge, irrevocable (except as stated in this section) patent
+license to make, have made, use, offer to sell, sell, import,
+transfer, and otherwise run, modify and propagate the contents of this
+implementation of the WebRTC code package, where such license applies
+only to those patent claims, both currently owned by Google and
+acquired in the future, licensable by Google that are necessarily
+infringed by this implementation of the WebRTC code package. This
+grant does not include claims that would be infringed only as a
+consequence of further modification of this implementation. If you or
+your agent or exclusive licensee institute or order or agree to the
+institution of patent litigation against any entity (including a
+cross-claim or counterclaim in a lawsuit) alleging that this
+implementation of the WebRTC code package or any code incorporated
+within this implementation of the WebRTC code package constitutes
+direct or contributory patent infringement, or inducement of patent
+infringement, then any patent rights granted to you under this License
+for this implementation of the WebRTC code package shall terminate as
+of the date such litigation is filed.
+</target>
+        <note>Class = "UITextView"; text = "============================\nSnikket \n\nbased on SiskinIM by Tigase, Inc.\nCopyright (C) 2019 \"Tigase, Inc.\" &lt;office@tigase.com&gt;\n\nThis program is free software: you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nthe Free Software Foundation, either version 3 of the License, or\n(at your option) any later version.\n\nThis program is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\nGNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License\nalong with this program.  If not, see https://www.gnu.org/licenses/.\n\n============================\nCopyright (c) 2011, The WebRTC project authors. All rights reserved.\n\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions are\nmet:\n\n  * Redistributions of source code must retain the above copyright\n    notice, this list of conditions and the following disclaimer.\n\n  * Redistributions in binary form must reproduce the above copyright\n    notice, this list of conditions and the following disclaimer in\n    the documentation and/or other materials provided with the\n    distribution.\n\n  * Neither the name of Google nor the names of its contributors may\n    be used to endorse or promote products derived from this software\n    without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS\n\"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT\nLIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR\nA PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT\nHOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,\nSPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT\nLIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,\nDATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY\nTHEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT\n(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE\nOF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n\n============================\nAdditional IP Rights Grant (Patents)\n\n\"This implementation\" means the copyrightable works distributed by\nGoogle as part of the WebRTC code package.\n\nGoogle hereby grants to you a perpetual, worldwide, non-exclusive,\nno-charge, irrevocable (except as stated in this section) patent\nlicense to make, have made, use, offer to sell, sell, import,\ntransfer, and otherwise run, modify and propagate the contents of this\nimplementation of the WebRTC code package, where such license applies\nonly to those patent claims, both currently owned by Google and\nacquired in the future, licensable by Google that are necessarily\ninfringed by this implementation of the WebRTC code package. This\ngrant does not include claims that would be infringed only as a\nconsequence of further modification of this implementation. If you or\nyour agent or exclusive licensee institute or order or agree to the\ninstitution of patent litigation against any entity (including a\ncross-claim or counterclaim in a lawsuit) alleging that this\nimplementation of the WebRTC code package or any code incorporated\nwithin this implementation of the WebRTC code package constitutes\ndirect or contributory patent infringement, or inducement of patent\ninfringement, then any patent rights granted to you under this License\nfor this implementation of the WebRTC code package shall terminate as\nof the date such litigation is filed.\n"; ObjectID = "OMw-f8-Hbs";</note>
+      </trans-unit>
+      <trans-unit id="Z7m-aB-9EO.text" xml:space="preserve">
+        <source>Snikket</source>
+        <target>Snikket</target>
+        <note>Class = "UILabel"; text = "Snikket"; ObjectID = "Z7m-aB-9EO";</note>
+      </trans-unit>
+      <trans-unit id="lRd-ky-eXs.text" xml:space="preserve">
+        <source>Version: 1.0</source>
+        <target>Version: 1.0</target>
+        <note>Class = "UILabel"; text = "Version: 1.0"; ObjectID = "lRd-ky-eXs";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Snikket/Base.lproj/Main.storyboard" datatype="plaintext" source-language="en" target-language="de">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+    </header>
+    <body>
+      <trans-unit id="0rT-oB-jot.text" xml:space="preserve">
+        <source>Company, Inc.</source>
+        <note>Class = "UILabel"; text = "Company, Inc."; ObjectID = "0rT-oB-jot";</note>
+      </trans-unit>
+      <trans-unit id="1dk-YA-RVu.text" xml:space="preserve">
+        <source>Your server for account \(account) supports message archiving. Would you like to enable this feature?</source>
+        <note>Class = "UILabel"; text = "Your server for account \\(account) supports message archiving. Would you like to enable this feature?"; ObjectID = "1dk-YA-RVu";</note>
+      </trans-unit>
+      <trans-unit id="5tI-9V-tVB.normalTitle" xml:space="preserve">
+        <source>Send Current Location</source>
+        <note>Class = "UIButton"; normalTitle = "Send Current Location"; ObjectID = "5tI-9V-tVB";</note>
+      </trans-unit>
+      <trans-unit id="6Zq-Ql-WA0.text" xml:space="preserve">
+        <source>using test@example.com</source>
+        <note>Class = "UILabel"; text = "using test@example.com"; ObjectID = "6Zq-Ql-WA0";</note>
+      </trans-unit>
+      <trans-unit id="8T3-uF-8vn.title" xml:space="preserve">
+        <source>Root View</source>
+        <note>Class = "UINavigationItem"; title = "Root View"; ObjectID = "8T3-uF-8vn";</note>
+      </trans-unit>
+      <trans-unit id="8ba-yZ-XRA.text" xml:space="preserve">
+        <source>by Tigase, Inc.</source>
+        <note>Class = "UILabel"; text = "by Tigase, Inc."; ObjectID = "8ba-yZ-XRA";</note>
+      </trans-unit>
+      <trans-unit id="9pv-A4-QxB.title" xml:space="preserve">
+        <source>Chats</source>
+        <note>Class = "UIViewController"; title = "Chats"; ObjectID = "9pv-A4-QxB";</note>
+      </trans-unit>
+      <trans-unit id="BM3-28-huR.placeholder" xml:space="preserve">
+        <source>Enter jid</source>
+        <note>Class = "UITextField"; placeholder = "Enter jid"; ObjectID = "BM3-28-huR";</note>
+      </trans-unit>
+      <trans-unit id="BM3-28-huR.text" xml:space="preserve">
+        <source>local_user@example.com</source>
+        <note>Class = "UITextField"; text = "local_user@example.com"; ObjectID = "BM3-28-huR";</note>
+      </trans-unit>
+      <trans-unit id="C1j-4i-HDP.title" xml:space="preserve">
+        <source>Attachments</source>
+        <note>Class = "UINavigationItem"; title = "Attachments"; ObjectID = "C1j-4i-HDP";</note>
+      </trans-unit>
+      <trans-unit id="Ckp-Mb-v0c.text" xml:space="preserve">
+        <source>Message Archiving</source>
+        <note>Class = "UILabel"; text = "Message Archiving"; ObjectID = "Ckp-Mb-v0c";</note>
+      </trans-unit>
+      <trans-unit id="DZS-A8-CWS.text" xml:space="preserve">
+        <source>Address</source>
+        <note>Class = "UILabel"; text = "Address"; ObjectID = "DZS-A8-CWS";</note>
+      </trans-unit>
+      <trans-unit id="Dx3-QU-3cN.title" xml:space="preserve">
+        <source>Back</source>
+        <note>Class = "UIBarButtonItem"; title = "Back"; ObjectID = "Dx3-QU-3cN";</note>
+      </trans-unit>
+      <trans-unit id="EpU-tc-DIx.text" xml:space="preserve">
+        <source>Attachments</source>
+        <note>Class = "UILabel"; text = "Attachments"; ObjectID = "EpU-tc-DIx";</note>
+      </trans-unit>
+      <trans-unit id="Kfl-J5-hdD.headerTitle" xml:space="preserve">
+        <source>Name</source>
+        <note>Class = "UITableViewSection"; headerTitle = "Name"; ObjectID = "Kfl-J5-hdD";</note>
+      </trans-unit>
+      <trans-unit id="LKO-PG-RwH.title" xml:space="preserve">
+        <source>Chats</source>
+        <note>Class = "UINavigationItem"; title = "Chats"; ObjectID = "LKO-PG-RwH";</note>
+      </trans-unit>
+      <trans-unit id="Mfv-HJ-QDO.headerTitle" xml:space="preserve">
+        <source>Account</source>
+        <note>Class = "UITableViewSection"; headerTitle = "Account"; ObjectID = "Mfv-HJ-QDO";</note>
+      </trans-unit>
+      <trans-unit id="N9z-ms-iaT.title" xml:space="preserve">
+        <source>Attachments</source>
+        <note>Class = "UICollectionViewController"; title = "Attachments"; ObjectID = "N9z-ms-iaT";</note>
+      </trans-unit>
+      <trans-unit id="NYU-vU-24f.title" xml:space="preserve">
+        <source> </source>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "NYU-vU-24f";</note>
+      </trans-unit>
+      <trans-unit id="Ndx-if-NHK.title" xml:space="preserve">
+        <source>Contacts</source>
+        <note>Class = "UINavigationController"; title = "Contacts"; ObjectID = "Ndx-if-NHK";</note>
+      </trans-unit>
+      <trans-unit id="OGf-mX-8z3.placeholder" xml:space="preserve">
+        <source>Enter display name</source>
+        <note>Class = "UITextField"; placeholder = "Enter display name"; ObjectID = "OGf-mX-8z3";</note>
+      </trans-unit>
+      <trans-unit id="OGf-mX-8z3.text" xml:space="preserve">
+        <source>Juliet Capulet</source>
+        <note>Class = "UITextField"; text = "Juliet Capulet"; ObjectID = "OGf-mX-8z3";</note>
+      </trans-unit>
+      <trans-unit id="Q28-Ig-9NP.headerTitle" xml:space="preserve">
+        <source>PRESENCE</source>
+        <note>Class = "UITableViewSection"; headerTitle = "PRESENCE"; ObjectID = "Q28-Ig-9NP";</note>
+      </trans-unit>
+      <trans-unit id="Qgj-eQ-geg.headerTitle" xml:space="preserve">
+        <source>JID</source>
+        <note>Class = "UITableViewSection"; headerTitle = "JID"; ObjectID = "Qgj-eQ-geg";</note>
+      </trans-unit>
+      <trans-unit id="Qr0-8H-IJq.text" xml:space="preserve">
+        <source>Chat with</source>
+        <note>Class = "UILabel"; text = "Chat with"; ObjectID = "Qr0-8H-IJq";</note>
+      </trans-unit>
+      <trans-unit id="SEz-IM-IWL.title" xml:space="preserve">
+        <source>Contacts</source>
+        <note>Class = "UINavigationItem"; title = "Contacts"; ObjectID = "SEz-IM-IWL";</note>
+      </trans-unit>
+      <trans-unit id="UWL-vQ-lxc.text" xml:space="preserve">
+        <source>Jane Done</source>
+        <note>Class = "UILabel"; text = "Jane Done"; ObjectID = "UWL-vQ-lxc";</note>
+      </trans-unit>
+      <trans-unit id="V18-Iv-6Re.text" xml:space="preserve">
+        <source>Siskin IM</source>
+        <note>Class = "UILabel"; text = "Siskin IM"; ObjectID = "V18-Iv-6Re";</note>
+      </trans-unit>
+      <trans-unit id="W52-LN-wzX.title" xml:space="preserve">
+        <source>Contacts</source>
+        <note>Class = "UITabBarItem"; title = "Contacts"; ObjectID = "W52-LN-wzX";</note>
+      </trans-unit>
+      <trans-unit id="WP2-Cp-7ZE.title" xml:space="preserve">
+        <source>Chat</source>
+        <note>Class = "UIViewController"; title = "Chat"; ObjectID = "WP2-Cp-7ZE";</note>
+      </trans-unit>
+      <trans-unit id="WyQ-cb-VAl.normalTitle" xml:space="preserve">
+        <source>Create new XMPP account</source>
+        <note>Class = "UIButton"; normalTitle = "Create new XMPP account"; ObjectID = "WyQ-cb-VAl";</note>
+      </trans-unit>
+      <trans-unit id="XZp-oZ-XpC.text" xml:space="preserve">
+        <source>Message encryption</source>
+        <note>Class = "UILabel"; text = "Message encryption"; ObjectID = "XZp-oZ-XpC";</note>
+      </trans-unit>
+      <trans-unit id="YEU-rS-450.title" xml:space="preserve">
+        <source> </source>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "YEU-rS-450";</note>
+      </trans-unit>
+      <trans-unit id="ZzM-t7-zvW.normalTitle" xml:space="preserve">
+        <source>Sign in to an existing XMPP account</source>
+        <note>Class = "UIButton"; normalTitle = "Sign in to an existing XMPP account"; ObjectID = "ZzM-t7-zvW";</note>
+      </trans-unit>
+      <trans-unit id="acW-dT-cKf.title" xml:space="preserve">
+        <source>Chats</source>
+        <note>Class = "UITabBarItem"; title = "Chats"; ObjectID = "acW-dT-cKf";</note>
+      </trans-unit>
+      <trans-unit id="agd-7n-AkX.text" xml:space="preserve">
+        <source>Type</source>
+        <note>Class = "UILabel"; text = "Type"; ObjectID = "agd-7n-AkX";</note>
+      </trans-unit>
+      <trans-unit id="b03-5W-Imh.text" xml:space="preserve">
+        <source>Label</source>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "b03-5W-Imh";</note>
+      </trans-unit>
+      <trans-unit id="bNp-S8-ulX.title" xml:space="preserve">
+        <source>Informations</source>
+        <note>Class = "UINavigationItem"; title = "Informations"; ObjectID = "bNp-S8-ulX";</note>
+      </trans-unit>
+      <trans-unit id="e6z-jk-XtN.title" xml:space="preserve">
+        <source>Send Location</source>
+        <note>Class = "UINavigationItem"; title = "Send Location"; ObjectID = "e6z-jk-XtN";</note>
+      </trans-unit>
+      <trans-unit id="ffo-7n-Tn2.text" xml:space="preserve">
+        <source>Receive presence updates</source>
+        <note>Class = "UILabel"; text = "Receive presence updates"; ObjectID = "ffo-7n-Tn2";</note>
+      </trans-unit>
+      <trans-unit id="g8N-kr-fax.text" xml:space="preserve">
+        <source>Mute contact</source>
+        <note>Class = "UILabel"; text = "Mute contact"; ObjectID = "g8N-kr-fax";</note>
+      </trans-unit>
+      <trans-unit id="gXY-yq-Y2K.placeholder" xml:space="preserve">
+        <source>Select account</source>
+        <note>Class = "UITextField"; placeholder = "Select account"; ObjectID = "gXY-yq-Y2K";</note>
+      </trans-unit>
+      <trans-unit id="gXY-yq-Y2K.text" xml:space="preserve">
+        <source>local_user@example.com</source>
+        <note>Class = "UITextField"; text = "local_user@example.com"; ObjectID = "gXY-yq-Y2K";</note>
+      </trans-unit>
+      <trans-unit id="ga8-2K-hxE.text" xml:space="preserve">
+        <source>Timestamp</source>
+        <note>Class = "UILabel"; text = "Timestamp"; ObjectID = "ga8-2K-hxE";</note>
+      </trans-unit>
+      <trans-unit id="kee-Xk-ORJ.title" xml:space="preserve">
+        <source>Settings</source>
+        <note>Class = "UITabBarItem"; title = "Settings"; ObjectID = "kee-Xk-ORJ";</note>
+      </trans-unit>
+      <trans-unit id="koS-ci-GqT.text" xml:space="preserve">
+        <source>John Doe</source>
+        <note>Class = "UILabel"; text = "John Doe"; ObjectID = "koS-ci-GqT";</note>
+      </trans-unit>
+      <trans-unit id="kwQ-p7-cX2.text" xml:space="preserve">
+        <source>Block contact</source>
+        <note>Class = "UILabel"; text = "Block contact"; ObjectID = "kwQ-p7-cX2";</note>
+      </trans-unit>
+      <trans-unit id="m0n-Ls-5LF.text" xml:space="preserve">
+        <source>Here I'm again...</source>
+        <note>Class = "UILabel"; text = "Here I'm again..."; ObjectID = "m0n-Ls-5LF";</note>
+      </trans-unit>
+      <trans-unit id="qjs-BY-Nid.text" xml:space="preserve">
+        <source>Clear History</source>
+        <note>Class = "UILabel"; text = "Clear History"; ObjectID = "qjs-BY-Nid";</note>
+      </trans-unit>
+      <trans-unit id="rOe-Pg-XBh.text" xml:space="preserve">
+        <source>user@example.com</source>
+        <note>Class = "UILabel"; text = "user@example.com"; ObjectID = "rOe-Pg-XBh";</note>
+      </trans-unit>
+      <trans-unit id="tRD-rd-7dm.text" xml:space="preserve">
+        <source>Label</source>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "tRD-rd-7dm";</note>
+      </trans-unit>
+      <trans-unit id="upM-mW-rMZ.text" xml:space="preserve">
+        <source>Send presence updates</source>
+        <note>Class = "UILabel"; text = "Send presence updates"; ObjectID = "upM-mW-rMZ";</note>
+      </trans-unit>
+      <trans-unit id="vEG-as-CLS.text" xml:space="preserve">
+        <source>Label</source>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "vEG-as-CLS";</note>
+      </trans-unit>
+      <trans-unit id="vIB-ar-uog.text" xml:space="preserve">
+        <source>Detail</source>
+        <note>Class = "UILabel"; text = "Detail"; ObjectID = "vIB-ar-uog";</note>
+      </trans-unit>
+      <trans-unit id="wE7-Lf-1a4.text" xml:space="preserve">
+        <source>Last message</source>
+        <note>Class = "UILabel"; text = "Last message"; ObjectID = "wE7-Lf-1a4";</note>
+      </trans-unit>
+      <trans-unit id="wvT-dz-RVz.normalTitle" xml:space="preserve">
+        <source>Not now</source>
+        <note>Class = "UIButton"; normalTitle = "Not now"; ObjectID = "wvT-dz-RVz";</note>
+      </trans-unit>
+      <trans-unit id="yJk-Px-1oo.normalTitle" xml:space="preserve">
+        <source>Enable</source>
+        <note>Class = "UIButton"; normalTitle = "Enable"; ObjectID = "yJk-Px-1oo";</note>
+      </trans-unit>
+      <trans-unit id="yxF-LM-meS.text" xml:space="preserve">
+        <source>Type</source>
+        <note>Class = "UILabel"; text = "Type"; ObjectID = "yxF-LM-meS";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Snikket/Base.lproj/MIX.storyboard" source-language="en" target-language="de" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+    </header>
+    <body>
+      <trans-unit id="4P1-zT-Par.text" xml:space="preserve">
+        <source>Use MIX</source>
+        <target>Use MIX</target>
+        <note>Class = "UILabel"; text = "Use MIX"; ObjectID = "4P1-zT-Par";</note>
+      </trans-unit>
+      <trans-unit id="4lS-sP-X2v.headerTitle" xml:space="preserve">
+        <source>Select Account</source>
+        <target>Select Account</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Select Account"; ObjectID = "4lS-sP-X2v";</note>
+      </trans-unit>
+      <trans-unit id="4mY-vJ-rHP.text" xml:space="preserve">
+        <source>When mentioned</source>
+        <target>When mentioned</target>
+        <note>Class = "UILabel"; text = "When mentioned"; ObjectID = "4mY-vJ-rHP";</note>
+      </trans-unit>
+      <trans-unit id="14i-9k-DTf.text" xml:space="preserve">
+        <source>Title</source>
+        <target>Title</target>
+        <note>Class = "UILabel"; text = "Title"; ObjectID = "14i-9k-DTf";</note>
+      </trans-unit>
+      <trans-unit id="19A-3H-7QN.placeholder" xml:space="preserve">
+        <source>Automatic</source>
+        <target>Automatic</target>
+        <note>Class = "UITextField"; placeholder = "Automatic"; ObjectID = "19A-3H-7QN";</note>
+      </trans-unit>
+      <trans-unit id="94L-uC-ldZ.footerTitle" xml:space="preserve">
+        <source>Enter domain name of a component with channel or leave blank to automatically detect components with channels</source>
+        <target>Enter domain name of a component with channel or leave blank to automatically detect components with channels</target>
+        <note>Class = "UITableViewSection"; footerTitle = "Enter domain name of a component with channel or leave blank to automatically detect components with channels"; ObjectID = "94L-uC-ldZ";</note>
+      </trans-unit>
+      <trans-unit id="94L-uC-ldZ.headerTitle" xml:space="preserve">
+        <source>Component domain</source>
+        <target>Component domain</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Component domain"; ObjectID = "94L-uC-ldZ";</note>
+      </trans-unit>
+      <trans-unit id="491-DV-e2a.text" xml:space="preserve">
+        <source>Subtitle</source>
+        <target>Subtitle</target>
+        <note>Class = "UILabel"; text = "Subtitle"; ObjectID = "491-DV-e2a";</note>
+      </trans-unit>
+      <trans-unit id="C5U-9C-poe.title" xml:space="preserve">
+        <source>Select channel</source>
+        <target>Select channel</target>
+        <note>Class = "UINavigationItem"; title = "Select channel"; ObjectID = "C5U-9C-poe";</note>
+      </trans-unit>
+      <trans-unit id="Gxx-ac-Co4.text" xml:space="preserve">
+        <source>Title</source>
+        <target>Title</target>
+        <note>Class = "UILabel"; text = "Title"; ObjectID = "Gxx-ac-Co4";</note>
+      </trans-unit>
+      <trans-unit id="Jiu-Fd-AsM.placeholder" xml:space="preserve">
+        <source>optional</source>
+        <target>optional</target>
+        <note>Class = "UITextField"; placeholder = "optional"; ObjectID = "Jiu-Fd-AsM";</note>
+      </trans-unit>
+      <trans-unit id="Kre-sS-2vH.title" xml:space="preserve">
+        <source>Invite</source>
+        <target>Invite</target>
+        <note>Class = "UIBarButtonItem"; title = "Invite"; ObjectID = "Kre-sS-2vH";</note>
+      </trans-unit>
+      <trans-unit id="L9j-Ji-XrB.text" xml:space="preserve">
+        <source>Subtitle</source>
+        <target>Subtitle</target>
+        <note>Class = "UILabel"; text = "Subtitle"; ObjectID = "L9j-Ji-XrB";</note>
+      </trans-unit>
+      <trans-unit id="MsF-6z-TY3.placeholder" xml:space="preserve">
+        <source>Description</source>
+        <target>Description</target>
+        <note>Class = "UITextField"; placeholder = "Description"; ObjectID = "MsF-6z-TY3";</note>
+      </trans-unit>
+      <trans-unit id="NWM-d4-jmq.text" xml:space="preserve">
+        <source>Attachments</source>
+        <target>Attachments</target>
+        <note>Class = "UILabel"; text = "Attachments"; ObjectID = "NWM-d4-jmq";</note>
+      </trans-unit>
+      <trans-unit id="Ngp-xJ-0lZ.headerTitle" xml:space="preserve">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UITableViewSection"; headerTitle = " "; ObjectID = "Ngp-xJ-0lZ";</note>
+      </trans-unit>
+      <trans-unit id="NyO-PD-t9d.headerTitle" xml:space="preserve">
+        <source>Nickname</source>
+        <target>Nickname</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Nickname"; ObjectID = "NyO-PD-t9d";</note>
+      </trans-unit>
+      <trans-unit id="O9e-sP-5IO.text" xml:space="preserve">
+        <source>Delete channel</source>
+        <target>Delete channel</target>
+        <note>Class = "UILabel"; text = "Delete channel"; ObjectID = "O9e-sP-5IO";</note>
+      </trans-unit>
+      <trans-unit id="P5r-af-VfY.text" xml:space="preserve">
+        <source>Channel name</source>
+        <target>Channel name</target>
+        <note>Class = "UILabel"; text = "Channel name"; ObjectID = "P5r-af-VfY";</note>
+      </trans-unit>
+      <trans-unit id="Pgv-Uz-ZgP.title" xml:space="preserve">
+        <source>Join</source>
+        <target>Join</target>
+        <note>Class = "UIBarButtonItem"; title = "Join"; ObjectID = "Pgv-Uz-ZgP";</note>
+      </trans-unit>
+      <trans-unit id="SUF-pg-qbn.footerTitle" xml:space="preserve">
+        <source>Select which account should be used to join channel</source>
+        <target>Select which account should be used to join channel</target>
+        <note>Class = "UITableViewSection"; footerTitle = "Select which account should be used to join channel"; ObjectID = "SUF-pg-qbn";</note>
+      </trans-unit>
+      <trans-unit id="SUF-pg-qbn.headerTitle" xml:space="preserve">
+        <source>Account</source>
+        <target>Account</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Account"; ObjectID = "SUF-pg-qbn";</note>
+      </trans-unit>
+      <trans-unit id="Sso-1F-PI3.text" xml:space="preserve">
+        <source>Change</source>
+        <target>Change</target>
+        <note>Class = "UILabel"; text = "Change"; ObjectID = "Sso-1F-PI3";</note>
+      </trans-unit>
+      <trans-unit id="TOR-gJ-n2M.text" xml:space="preserve">
+        <source>Subtitle</source>
+        <target>Subtitle</target>
+        <note>Class = "UILabel"; text = "Subtitle"; ObjectID = "TOR-gJ-n2M";</note>
+      </trans-unit>
+      <trans-unit id="Ta8-dG-cwn.footerTitle" xml:space="preserve">
+        <source>Notification support and filtering depends on the XMPP server which you are using and may not work in some cases even if it's enabled here.</source>
+        <target>Notification support and filtering depends on the XMPP server which you are using and may not work in some cases even if it's enabled here.</target>
+        <note>Class = "UITableViewSection"; footerTitle = "Notification support and filtering depends on the XMPP server which you are using and may not work in some cases even if it's enabled here."; ObjectID = "Ta8-dG-cwn";</note>
+      </trans-unit>
+      <trans-unit id="Ta8-dG-cwn.headerTitle" xml:space="preserve">
+        <source> Settings</source>
+        <target> Settings</target>
+        <note>Class = "UITableViewSection"; headerTitle = " Settings"; ObjectID = "Ta8-dG-cwn";</note>
+      </trans-unit>
+      <trans-unit id="VkQ-fL-ON5.title" xml:space="preserve">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Class = "UIBarButtonItem"; title = "Item"; ObjectID = "VkQ-fL-ON5";</note>
+      </trans-unit>
+      <trans-unit id="Vna-Fa-6lB.title" xml:space="preserve">
+        <source>Create channel</source>
+        <target>Create channel</target>
+        <note>Class = "UINavigationItem"; title = "Create channel"; ObjectID = "Vna-Fa-6lB";</note>
+      </trans-unit>
+      <trans-unit id="Xcj-Am-jtk.text" xml:space="preserve">
+        <source>Invitation only</source>
+        <target>Invitation only</target>
+        <note>Class = "UILabel"; text = "Invitation only"; ObjectID = "Xcj-Am-jtk";</note>
+      </trans-unit>
+      <trans-unit id="aFn-uB-myu.headerTitle" xml:space="preserve">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UITableViewSection"; headerTitle = " "; ObjectID = "aFn-uB-myu";</note>
+      </trans-unit>
+      <trans-unit id="aqR-Sm-2re.headerTitle" xml:space="preserve">
+        <source>Experimental</source>
+        <target>Experimental</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Experimental"; ObjectID = "aqR-Sm-2re";</note>
+      </trans-unit>
+      <trans-unit id="bRP-ZF-wlT.text" xml:space="preserve">
+        <source>Offline</source>
+        <target>Offline</target>
+        <note>Class = "UILabel"; text = "Offline"; ObjectID = "bRP-ZF-wlT";</note>
+      </trans-unit>
+      <trans-unit id="cv8-VS-8c6.title" xml:space="preserve">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Class = "UIBarButtonItem"; title = "Item"; ObjectID = "cv8-VS-8c6";</note>
+      </trans-unit>
+      <trans-unit id="fFa-pN-ndo.text" xml:space="preserve">
+        <source>Notifications</source>
+        <target>Notifications</target>
+        <note>Class = "UILabel"; text = "Notifications"; ObjectID = "fFa-pN-ndo";</note>
+      </trans-unit>
+      <trans-unit id="frK-mh-cjn.text" xml:space="preserve">
+        <source>Subtitle</source>
+        <target>Subtitle</target>
+        <note>Class = "UILabel"; text = "Subtitle"; ObjectID = "frK-mh-cjn";</note>
+      </trans-unit>
+      <trans-unit id="gBT-qM-eUt.text" xml:space="preserve">
+        <source>Room name</source>
+        <target>Room name</target>
+        <note>Class = "UILabel"; text = "Room name"; ObjectID = "gBT-qM-eUt";</note>
+      </trans-unit>
+      <trans-unit id="gNa-Cz-T88.placeholder" xml:space="preserve">
+        <source>required</source>
+        <target>required</target>
+        <note>Class = "UITextField"; placeholder = "required"; ObjectID = "gNa-Cz-T88";</note>
+      </trans-unit>
+      <trans-unit id="hOB-gk-g82.text" xml:space="preserve">
+        <source>Title</source>
+        <target>Title</target>
+        <note>Class = "UILabel"; text = "Title"; ObjectID = "hOB-gk-g82";</note>
+      </trans-unit>
+      <trans-unit id="kD7-lz-IEK.placeholder" xml:space="preserve">
+        <source>required</source>
+        <target>required</target>
+        <note>Class = "UITextField"; placeholder = "required"; ObjectID = "kD7-lz-IEK";</note>
+      </trans-unit>
+      <trans-unit id="ke4-WK-unt.title" xml:space="preserve">
+        <source>Channel details</source>
+        <target>Channel details</target>
+        <note>Class = "UITableViewController"; title = "Channel details"; ObjectID = "ke4-WK-unt";</note>
+      </trans-unit>
+      <trans-unit id="lD0-pX-s2D.text" xml:space="preserve">
+        <source>Title</source>
+        <target>Title</target>
+        <note>Class = "UILabel"; text = "Title"; ObjectID = "lD0-pX-s2D";</note>
+      </trans-unit>
+      <trans-unit id="lfo-Uw-gL1.title" xml:space="preserve">
+        <source>Channel Controller</source>
+        <target>Channel Controller</target>
+        <note>Class = "UIViewController"; title = "Channel Controller"; ObjectID = "lfo-Uw-gL1";</note>
+      </trans-unit>
+      <trans-unit id="mW8-st-X8N.title" xml:space="preserve">
+        <source>Participants</source>
+        <target>Participants</target>
+        <note>Class = "UINavigationItem"; title = "Participants"; ObjectID = "mW8-st-X8N";</note>
+      </trans-unit>
+      <trans-unit id="mXt-Xt-Bj5.headerTitle" xml:space="preserve">
+        <source>Access</source>
+        <target>Access</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Access"; ObjectID = "mXt-Xt-Bj5";</note>
+      </trans-unit>
+      <trans-unit id="mpC-5r-OOo.text" xml:space="preserve">
+        <source>Channel description</source>
+        <target>Channel description</target>
+        <note>Class = "UILabel"; text = "Channel description"; ObjectID = "mpC-5r-OOo";</note>
+      </trans-unit>
+      <trans-unit id="oIZ-xz-SzZ.placeholder" xml:space="preserve">
+        <source>required</source>
+        <target>required</target>
+        <note>Class = "UITextField"; placeholder = "required"; ObjectID = "oIZ-xz-SzZ";</note>
+      </trans-unit>
+      <trans-unit id="pZC-YZ-jlg.title" xml:space="preserve">
+        <source>Create</source>
+        <target>Create</target>
+        <note>Class = "UIBarButtonItem"; title = "Create"; ObjectID = "pZC-YZ-jlg";</note>
+      </trans-unit>
+      <trans-unit id="qB9-Eq-3RT.headerTitle" xml:space="preserve">
+        <source>Password</source>
+        <target>Password</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Password"; ObjectID = "qB9-Eq-3RT";</note>
+      </trans-unit>
+      <trans-unit id="r60-FV-hoE.placeholder" xml:space="preserve">
+        <source>Name</source>
+        <target>Name</target>
+        <note>Class = "UITextField"; placeholder = "Name"; ObjectID = "r60-FV-hoE";</note>
+      </trans-unit>
+      <trans-unit id="tUe-gp-Aqd.text" xml:space="preserve">
+        <source>test@example.com</source>
+        <target>test@example.com</target>
+        <note>Class = "UITextField"; text = "test@example.com"; ObjectID = "tUe-gp-Aqd";</note>
+      </trans-unit>
+      <trans-unit id="u6K-qu-Pf5.footerTitle" xml:space="preserve">
+        <source>ID of a channel used for joining (localpart of a JID)</source>
+        <target>ID of a channel used for joining (localpart of a JID)</target>
+        <note>Class = "UITableViewSection"; footerTitle = "ID of a channel used for joining (localpart of a JID)"; ObjectID = "u6K-qu-Pf5";</note>
+      </trans-unit>
+      <trans-unit id="u6K-qu-Pf5.headerTitle" xml:space="preserve">
+        <source>Channel ID</source>
+        <target>Channel ID</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Channel ID"; ObjectID = "u6K-qu-Pf5";</note>
+      </trans-unit>
+      <trans-unit id="uMJ-O9-BGV.title" xml:space="preserve">
+        <source>Blocked</source>
+        <target>Blocked</target>
+        <note>Class = "UINavigationItem"; title = "Blocked"; ObjectID = "uMJ-O9-BGV";</note>
+      </trans-unit>
+      <trans-unit id="uX9-lh-BwU.title" xml:space="preserve">
+        <source>Next</source>
+        <target>Next</target>
+        <note>Class = "UIBarButtonItem"; title = "Next"; ObjectID = "uX9-lh-BwU";</note>
+      </trans-unit>
+      <trans-unit id="vcg-og-awz.headerTitle" xml:space="preserve">
+        <source>Channel name</source>
+        <target>Channel name</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Channel name"; ObjectID = "vcg-og-awz";</note>
+      </trans-unit>
+      <trans-unit id="zcF-H6-Z39.text" xml:space="preserve">
+        <source>Title</source>
+        <target>Title</target>
+        <note>Class = "UILabel"; text = "Title"; ObjectID = "zcF-H6-Z39";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Snikket/Base.lproj/Settings.storyboard" source-language="en" target-language="de" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+    </header>
+    <body>
+      <trans-unit id="3a8-1d-3PR.text" xml:space="preserve">
+        <source>Show emoticons</source>
+        <target>Show emoticons</target>
+        <note>Class = "UILabel"; text = "Show emoticons"; ObjectID = "3a8-1d-3PR";</note>
+      </trans-unit>
+      <trans-unit id="3pd-ay-sAI.text" xml:space="preserve">
+        <source>Notifications</source>
+        <target>Notifications</target>
+        <note>Class = "UILabel"; text = "Notifications"; ObjectID = "3pd-ay-sAI";</note>
+      </trans-unit>
+      <trans-unit id="3vM-ad-4ap.text" xml:space="preserve">
+        <source>About</source>
+        <target>About</target>
+        <note>Class = "UILabel"; text = "About"; ObjectID = "3vM-ad-4ap";</note>
+      </trans-unit>
+      <trans-unit id="7ho-Mu-thd.text" xml:space="preserve">
+        <source>Account name</source>
+        <target>Account name</target>
+        <note>Class = "UILabel"; text = "Account name"; ObjectID = "7ho-Mu-thd";</note>
+      </trans-unit>
+      <trans-unit id="7tC-Eh-kK5.text" xml:space="preserve">
+        <source>Title</source>
+        <target>Title</target>
+        <note>Class = "UILabel"; text = "Title"; ObjectID = "7tC-Eh-kK5";</note>
+      </trans-unit>
+      <trans-unit id="8G3-tm-sCO.text" xml:space="preserve">
+        <source>Media</source>
+        <target>Media</target>
+        <note>Class = "UILabel"; text = "Media"; ObjectID = "8G3-tm-sCO";</note>
+      </trans-unit>
+      <trans-unit id="8K5-bS-ddh.text" xml:space="preserve">
+        <source>Enable markdown</source>
+        <target>Enable markdown</target>
+        <note>Class = "UILabel"; text = "Enable markdown"; ObjectID = "8K5-bS-ddh";</note>
+      </trans-unit>
+      <trans-unit id="9Gl-4Z-f2X.text" xml:space="preserve">
+        <source>Encryption</source>
+        <target>Encryption</target>
+        <note>Class = "UILabel"; text = "Encryption"; ObjectID = "9Gl-4Z-f2X";</note>
+      </trans-unit>
+      <trans-unit id="15C-WY-qrp.title" xml:space="preserve">
+        <source>Settings</source>
+        <target>Settings</target>
+        <note>Class = "UINavigationController"; title = "Settings"; ObjectID = "15C-WY-qrp";</note>
+      </trans-unit>
+      <trans-unit id="32B-bc-CHX.text" xml:space="preserve">
+        <source>Request delivery receipts</source>
+        <target>Request delivery receipts</target>
+        <note>Class = "UILabel"; text = "Request delivery receipts"; ObjectID = "32B-bc-CHX";</note>
+      </trans-unit>
+      <trans-unit id="Aki-gv-qus.text" xml:space="preserve">
+        <source>No blocked contacts</source>
+        <target>No blocked contacts</target>
+        <note>Class = "UILabel"; text = "No blocked contacts"; ObjectID = "Aki-gv-qus";</note>
+      </trans-unit>
+      <trans-unit id="BSa-RZ-M7L.text" xml:space="preserve">
+        <source>Use public STUN servers</source>
+        <target>Use public STUN servers</target>
+        <note>Class = "UILabel"; text = "Use public STUN servers"; ObjectID = "BSa-RZ-M7L";</note>
+      </trans-unit>
+      <trans-unit id="BSk-tI-BDM.text" xml:space="preserve">
+        <source>Contacts in groups</source>
+        <target>Contacts in groups</target>
+        <note>Class = "UILabel"; text = "Contacts in groups"; ObjectID = "BSk-tI-BDM";</note>
+      </trans-unit>
+      <trans-unit id="Bd4-qf-OsU.text" xml:space="preserve">
+        <source>Send message on return</source>
+        <target>Send message on return</target>
+        <note>Class = "UILabel"; text = "Send message on return"; ObjectID = "Bd4-qf-OsU";</note>
+      </trans-unit>
+      <trans-unit id="FGQ-GL-dYt.title" xml:space="preserve">
+        <source>Experimental</source>
+        <target>Experimental</target>
+        <note>Class = "UITableViewController"; title = "Experimental"; ObjectID = "FGQ-GL-dYt";</note>
+      </trans-unit>
+      <trans-unit id="G2W-rB-KuE.title" xml:space="preserve">
+        <source>Close</source>
+        <target>Close</target>
+        <note>Class = "UIBarButtonItem"; title = "Close"; ObjectID = "G2W-rB-KuE";</note>
+      </trans-unit>
+      <trans-unit id="GfS-6V-cuc.title" xml:space="preserve">
+        <source>Notification settings</source>
+        <target>Notification settings</target>
+        <note>Class = "UITableViewController"; title = "Notification settings"; ObjectID = "GfS-6V-cuc";</note>
+      </trans-unit>
+      <trans-unit id="Hu1-2i-RSO.text" xml:space="preserve">
+        <source>Clear download cache</source>
+        <target>Clear download cache</target>
+        <note>Class = "UILabel"; text = "Clear download cache"; ObjectID = "Hu1-2i-RSO";</note>
+      </trans-unit>
+      <trans-unit id="L2t-Ud-Fkc.text" xml:space="preserve">
+        <source>Light</source>
+        <target>Light</target>
+        <note>Class = "UILabel"; text = "Light"; ObjectID = "L2t-Ud-Fkc";</note>
+      </trans-unit>
+      <trans-unit id="LAc-oF-22z.text" xml:space="preserve">
+        <source>By presence and time</source>
+        <target>By presence and time</target>
+        <note>Class = "UILabel"; text = "By presence and time"; ObjectID = "LAc-oF-22z";</note>
+      </trans-unit>
+      <trans-unit id="MGl-L6-Fs3.text" xml:space="preserve">
+        <source>Auto-authorize contacts</source>
+        <target>Auto-authorize contacts</target>
+        <note>Class = "UILabel"; text = "Auto-authorize contacts"; ObjectID = "MGl-L6-Fs3";</note>
+      </trans-unit>
+      <trans-unit id="MJ0-kw-1Kl.text" xml:space="preserve">
+        <source>Blocked contacts</source>
+        <target>Blocked contacts</target>
+        <note>Class = "UILabel"; text = "Blocked contacts"; ObjectID = "MJ0-kw-1Kl";</note>
+      </trans-unit>
+      <trans-unit id="P82-B8-768.text" xml:space="preserve">
+        <source>"Hidden" group</source>
+        <target>"Hidden" group</target>
+        <note>Class = "UILabel"; text = "\"Hidden\" group"; ObjectID = "P82-B8-768";</note>
+      </trans-unit>
+      <trans-unit id="Qu4-Mf-tz4.text" xml:space="preserve">
+        <source>Message Styling</source>
+        <target>Message Styling</target>
+        <note>Class = "UILabel"; text = "Message Styling"; ObjectID = "Qu4-Mf-tz4";</note>
+      </trans-unit>
+      <trans-unit id="Tbt-L3-jpa.text" xml:space="preserve">
+        <source>Groupchats bookmarks sync</source>
+        <target>Groupchats bookmarks sync</target>
+        <note>Class = "UILabel"; text = "Groupchats bookmarks sync"; ObjectID = "Tbt-L3-jpa";</note>
+      </trans-unit>
+      <trans-unit id="UuL-li-3gA.text" xml:space="preserve">
+        <source>20 MB</source>
+        <target>20 MB</target>
+        <note>Class = "UILabel"; text = "20 MB"; ObjectID = "UuL-li-3gA";</note>
+      </trans-unit>
+      <trans-unit id="Y0J-o4-ADK.text" xml:space="preserve">
+        <source>Sorting</source>
+        <target>Sorting</target>
+        <note>Class = "UILabel"; text = "Sorting"; ObjectID = "Y0J-o4-ADK";</note>
+      </trans-unit>
+      <trans-unit id="Y3q-SX-IhN.text" xml:space="preserve">
+        <source>Status Type</source>
+        <target>Status Type</target>
+        <note>Class = "UILabel"; text = "Status Type"; ObjectID = "Y3q-SX-IhN";</note>
+      </trans-unit>
+      <trans-unit id="YDd-q8-r7f.text" xml:space="preserve">
+        <source>Experimental</source>
+        <target>Experimental</target>
+        <note>Class = "UILabel"; text = "Experimental"; ObjectID = "YDd-q8-r7f";</note>
+      </trans-unit>
+      <trans-unit id="bKW-ln-Kez.text" xml:space="preserve">
+        <source>Videos quality</source>
+        <target>Videos quality</target>
+        <note>Class = "UILabel"; text = "Videos quality"; ObjectID = "bKW-ln-Kez";</note>
+      </trans-unit>
+      <trans-unit id="bPa-aU-WFn.text" xml:space="preserve">
+        <source>None</source>
+        <target>None</target>
+        <note>Class = "UILabel"; text = "None"; ObjectID = "bPa-aU-WFn";</note>
+      </trans-unit>
+      <trans-unit id="bbT-7s-6ph.text" xml:space="preserve">
+        <source>Photos quality</source>
+        <target>Photos quality</target>
+        <note>Class = "UILabel"; text = "Photos quality"; ObjectID = "bbT-7s-6ph";</note>
+      </trans-unit>
+      <trans-unit id="bj6-vP-3A7.text" xml:space="preserve">
+        <source>File download limit</source>
+        <target>File download limit</target>
+        <note>Class = "UILabel"; text = "File download limit"; ObjectID = "bj6-vP-3A7";</note>
+      </trans-unit>
+      <trans-unit id="cyb-st-Bmw.text" xml:space="preserve">
+        <source>Notifications from unknown</source>
+        <target>Notifications from unknown</target>
+        <note>Class = "UILabel"; text = "Notifications from unknown"; ObjectID = "cyb-st-Bmw";</note>
+      </trans-unit>
+      <trans-unit id="dbq-Tl-d6b.text" xml:space="preserve">
+        <source>XMPP Quickstart / Pipelining</source>
+        <target>XMPP Quickstart / Pipelining</target>
+        <note>Class = "UILabel"; text = "XMPP Quickstart / Pipelining"; ObjectID = "dbq-Tl-d6b";</note>
+      </trans-unit>
+      <trans-unit id="eZJ-fR-LPh.text" xml:space="preserve">
+        <source>File sharing via HTTP</source>
+        <target>File sharing via HTTP</target>
+        <note>Class = "UILabel"; text = "File sharing via HTTP"; ObjectID = "eZJ-fR-LPh";</note>
+      </trans-unit>
+      <trans-unit id="etv-3w-9lA.text" xml:space="preserve">
+        <source>Chats</source>
+        <target>Chats</target>
+        <note>Class = "UILabel"; text = "Chats"; ObjectID = "etv-3w-9lA";</note>
+      </trans-unit>
+      <trans-unit id="fB5-hb-x8m.text" xml:space="preserve">
+        <source>Subtitle</source>
+        <target>Subtitle</target>
+        <note>Class = "UILabel"; text = "Subtitle"; ObjectID = "fB5-hb-x8m";</note>
+      </trans-unit>
+      <trans-unit id="fxY-aA-n0i.text" xml:space="preserve">
+        <source>Appearance</source>
+        <target>Appearance</target>
+        <note>Class = "UILabel"; text = "Appearance"; ObjectID = "fxY-aA-n0i";</note>
+      </trans-unit>
+      <trans-unit id="g4v-o5-nXZ.text" xml:space="preserve">
+        <source>2 lines</source>
+        <target>2 lines</target>
+        <note>Class = "UILabel"; text = "2 lines"; ObjectID = "g4v-o5-nXZ";</note>
+      </trans-unit>
+      <trans-unit id="hGX-FI-YNj.text" xml:space="preserve">
+        <source>Contacts</source>
+        <target>Contacts</target>
+        <note>Class = "UILabel"; text = "Contacts"; ObjectID = "hGX-FI-YNj";</note>
+      </trans-unit>
+      <trans-unit id="ieE-mK-uEm.text" xml:space="preserve">
+        <source>Media</source>
+        <target>Media</target>
+        <note>Class = "UILabel"; text = "Media"; ObjectID = "ieE-mK-uEm";</note>
+      </trans-unit>
+      <trans-unit id="ioL-eS-dDk.text" xml:space="preserve">
+        <source>Clear chat on close</source>
+        <target>Clear chat on close</target>
+        <note>Class = "UILabel"; text = "Clear chat on close"; ObjectID = "ioL-eS-dDk";</note>
+      </trans-unit>
+      <trans-unit id="jeY-X9-tWB.title" xml:space="preserve">
+        <source>Settings</source>
+        <target>Settings</target>
+        <note>Class = "UINavigationItem"; title = "Settings"; ObjectID = "jeY-X9-tWB";</note>
+      </trans-unit>
+      <trans-unit id="pFo-ox-4gT.title" xml:space="preserve">
+        <source>Chat settings</source>
+        <target>Chat settings</target>
+        <note>Class = "UITableViewController"; title = "Chat settings"; ObjectID = "pFo-ox-4gT";</note>
+      </trans-unit>
+      <trans-unit id="tqu-Xn-F0Z.text" xml:space="preserve">
+        <source>Medium</source>
+        <target>Medium</target>
+        <note>Class = "UILabel"; text = "Medium"; ObjectID = "tqu-Xn-F0Z";</note>
+      </trans-unit>
+      <trans-unit id="u45-W8-GP0.text" xml:space="preserve">
+        <source>Medium</source>
+        <target>Medium</target>
+        <note>Class = "UILabel"; text = "Medium"; ObjectID = "u45-W8-GP0";</note>
+      </trans-unit>
+      <trans-unit id="xRS-v5-T5C.title" xml:space="preserve">
+        <source>Contacts settings</source>
+        <target>Contacts settings</target>
+        <note>Class = "UITableViewController"; title = "Contacts settings"; ObjectID = "xRS-v5-T5C";</note>
+      </trans-unit>
+      <trans-unit id="ybc-mt-hVG.text" xml:space="preserve">
+        <source>Show link previews</source>
+        <target>Show link previews</target>
+        <note>Class = "UILabel"; text = "Show link previews"; ObjectID = "ybc-mt-hVG";</note>
+      </trans-unit>
+      <trans-unit id="zwR-jn-5u6.text" xml:space="preserve">
+        <source>Message carbons</source>
+        <target>Message carbons</target>
+        <note>Class = "UILabel"; text = "Message carbons"; ObjectID = "zwR-jn-5u6";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Snikket/Base.lproj/VoIP.storyboard" source-language="en" target-language="de" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+    </header>
+    <body>
+      <trans-unit id="3AK-8A-Pb8.text" xml:space="preserve">
+        <source>GHI</source>
+        <target>GHI</target>
+        <note>Class = "UILabel"; text = "GHI"; ObjectID = "3AK-8A-Pb8";</note>
+      </trans-unit>
+      <trans-unit id="3o3-O7-VKn.text" xml:space="preserve">
+        <source>6</source>
+        <target>6</target>
+        <note>Class = "UILabel"; text = "6"; ObjectID = "3o3-O7-VKn";</note>
+      </trans-unit>
+      <trans-unit id="4GI-gL-K98.text" xml:space="preserve">
+        <source>3</source>
+        <target>3</target>
+        <note>Class = "UILabel"; text = "3"; ObjectID = "4GI-gL-K98";</note>
+      </trans-unit>
+      <trans-unit id="7f7-cm-34C.text" xml:space="preserve">
+        <source>0</source>
+        <target>0</target>
+        <note>Class = "UILabel"; text = "0"; ObjectID = "7f7-cm-34C";</note>
+      </trans-unit>
+      <trans-unit id="CoF-1U-yN4.text" xml:space="preserve">
+        <source>8</source>
+        <target>8</target>
+        <note>Class = "UILabel"; text = "8"; ObjectID = "CoF-1U-yN4";</note>
+      </trans-unit>
+      <trans-unit id="G84-mU-mWT.text" xml:space="preserve">
+        <source>MNO</source>
+        <target>MNO</target>
+        <note>Class = "UILabel"; text = "MNO"; ObjectID = "G84-mU-mWT";</note>
+      </trans-unit>
+      <trans-unit id="Kj7-HM-1eU.text" xml:space="preserve">
+        <source>#</source>
+        <target>#</target>
+        <note>Class = "UILabel"; text = "#"; ObjectID = "Kj7-HM-1eU";</note>
+      </trans-unit>
+      <trans-unit id="Kl5-ka-eb9.text" xml:space="preserve">
+        <source>DEF</source>
+        <target>DEF</target>
+        <note>Class = "UILabel"; text = "DEF"; ObjectID = "Kl5-ka-eb9";</note>
+      </trans-unit>
+      <trans-unit id="Liz-bC-Mnb.text" xml:space="preserve">
+        <source>*</source>
+        <target>*</target>
+        <note>Class = "UILabel"; text = "*"; ObjectID = "Liz-bC-Mnb";</note>
+      </trans-unit>
+      <trans-unit id="PKN-5m-zEF.text" xml:space="preserve">
+        <source>TUV</source>
+        <target>TUV</target>
+        <note>Class = "UILabel"; text = "TUV"; ObjectID = "PKN-5m-zEF";</note>
+      </trans-unit>
+      <trans-unit id="PTr-3K-fqE.text" xml:space="preserve">
+        <source>5</source>
+        <target>5</target>
+        <note>Class = "UILabel"; text = "5"; ObjectID = "PTr-3K-fqE";</note>
+      </trans-unit>
+      <trans-unit id="Q7k-d2-q0x.text" xml:space="preserve">
+        <source>JKL</source>
+        <target>JKL</target>
+        <note>Class = "UILabel"; text = "JKL"; ObjectID = "Q7k-d2-q0x";</note>
+      </trans-unit>
+      <trans-unit id="RHJ-lu-qdC.text" xml:space="preserve">
+        <source>7</source>
+        <target>7</target>
+        <note>Class = "UILabel"; text = "7"; ObjectID = "RHJ-lu-qdC";</note>
+      </trans-unit>
+      <trans-unit id="XUJ-Gp-lqi.text" xml:space="preserve">
+        <source>1</source>
+        <target>1</target>
+        <note>Class = "UILabel"; text = "1"; ObjectID = "XUJ-Gp-lqi";</note>
+      </trans-unit>
+      <trans-unit id="XeF-nm-rTF.text" xml:space="preserve">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UILabel"; text = " "; ObjectID = "XeF-nm-rTF";</note>
+      </trans-unit>
+      <trans-unit id="bPD-13-cpQ.text" xml:space="preserve">
+        <source>ABC</source>
+        <target>ABC</target>
+        <note>Class = "UILabel"; text = "ABC"; ObjectID = "bPD-13-cpQ";</note>
+      </trans-unit>
+      <trans-unit id="bk6-Bq-pzY.text" xml:space="preserve">
+        <source>XYZ</source>
+        <target>XYZ</target>
+        <note>Class = "UILabel"; text = "XYZ"; ObjectID = "bk6-Bq-pzY";</note>
+      </trans-unit>
+      <trans-unit id="ddF-nO-S1A.text" xml:space="preserve">
+        <source>2</source>
+        <target>2</target>
+        <note>Class = "UILabel"; text = "2"; ObjectID = "ddF-nO-S1A";</note>
+      </trans-unit>
+      <trans-unit id="flh-6y-zns.text" xml:space="preserve">
+        <source>PQRS</source>
+        <target>PQRS</target>
+        <note>Class = "UILabel"; text = "PQRS"; ObjectID = "flh-6y-zns";</note>
+      </trans-unit>
+      <trans-unit id="i9e-aU-c5F.text" xml:space="preserve">
+        <source>Calling John Doe...</source>
+        <target>Calling John Doe...</target>
+        <note>Class = "UILabel"; text = "Calling John Doe..."; ObjectID = "i9e-aU-c5F";</note>
+      </trans-unit>
+      <trans-unit id="o93-nj-537.text" xml:space="preserve">
+        <source>+</source>
+        <target>+</target>
+        <note>Class = "UILabel"; text = "+"; ObjectID = "o93-nj-537";</note>
+      </trans-unit>
+      <trans-unit id="rDC-mF-Lhn.text" xml:space="preserve">
+        <source>9</source>
+        <target>9</target>
+        <note>Class = "UILabel"; text = "9"; ObjectID = "rDC-mF-Lhn";</note>
+      </trans-unit>
+      <trans-unit id="wgM-06-9Ik.text" xml:space="preserve">
+        <source>4</source>
+        <target>4</target>
+        <note>Class = "UILabel"; text = "4"; ObjectID = "wgM-06-9Ik";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Snikket/Base.lproj/Welcome.storyboard" source-language="en" target-language="de" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+    </header>
+    <body>
+      <trans-unit id="9Xm-uz-gIu.normalTitle" xml:space="preserve">
+        <source>Learn more</source>
+        <target>Learn more</target>
+        <note>Class = "UIButton"; normalTitle = "Learn more"; ObjectID = "9Xm-uz-gIu";</note>
+      </trans-unit>
+      <trans-unit id="Pr0-Qp-NEQ.title" xml:space="preserve">
+        <source>Snikket</source>
+        <target>Snikket</target>
+        <note>Class = "UINavigationItem"; title = "Snikket"; ObjectID = "Pr0-Qp-NEQ";</note>
+      </trans-unit>
+      <trans-unit id="i2u-OL-UUY.title" xml:space="preserve">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Class = "UIBarButtonItem"; title = "Item"; ObjectID = "i2u-OL-UUY";</note>
+      </trans-unit>
+      <trans-unit id="is0-gN-a4J.normalTitle" xml:space="preserve">
+        <source>Sign in</source>
+        <target>Sign in</target>
+        <note>Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "is0-gN-a4J";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Snikket/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="de">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Snikket</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Snikket</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
+        <source>Uses camera to capture photo for avatar and for VoIP calls</source>
+        <note>Privacy - Camera Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
+        <source>Allows you to share your location with others</source>
+        <note>Privacy - Location When In Use Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
+        <source>Uses microphone for VoIP calls</source>
+        <note>Privacy - Microphone Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
+        <source>Used to save attachements from conversations</source>
+        <note>Privacy - Photo Library Additions Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryUsageDescription" xml:space="preserve">
+        <source>Used to select avatar</source>
+        <note>Privacy - Photo Library Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Snikket/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="de">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+    </header>
+    <body>
+      <trans-unit id=" server returned an error on the request to enable push notifications. You can try to enable this feature later on from the account settings." xml:space="preserve">
+        <source> server returned an error on the request to enable push notifications. You can try to enable this feature later on from the account settings.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%d MB" xml:space="preserve">
+        <source>%d MB</source>
+        <note>Placeholder is the MBs Download Limit</note>
+      </trans-unit>
+      <trans-unit id="(private message)" xml:space="preserve">
+        <source>(private message)</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="1 line of preview" xml:space="preserve">
+        <source>1 line of preview</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Account removal" xml:space="preserve">
+        <source>Account removal</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Accounts" xml:space="preserve">
+        <source>Accounts</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add account" xml:space="preserve">
+        <source>Add account</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Addresses" xml:space="preserve">
+        <source>Addresses</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="All" xml:space="preserve">
+        <source>All</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="All messages will be deleted and all participants will be kicked out. Are you sure?" xml:space="preserve">
+        <source>All messages will be deleted and all participants will be kicked out. Are you sure?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Attachment" xml:space="preserve">
+        <source>Attachment</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Attachments" xml:space="preserve">
+        <source>Attachments</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Audio call" xml:space="preserve">
+        <source>Audio call</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Auto" xml:space="preserve">
+        <source>Auto</source>
+        <note>App Theme Type</note>
+      </trans-unit>
+      <trans-unit id="Automatic" xml:space="preserve">
+        <source>Automatic</source>
+        <note>Status Option
+   Status Options</note>
+      </trans-unit>
+      <trans-unit id="Away" xml:space="preserve">
+        <source>Away</source>
+        <note>Status Options</note>
+      </trans-unit>
+      <trans-unit id="Ban user" xml:space="preserve">
+        <source>Ban user</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Banning user" xml:space="preserve">
+        <source>Banning user</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Be right back" xml:space="preserve">
+        <source>Be right back</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Before changing roster you need to connect to server. Do you wish to do this now?" xml:space="preserve">
+        <source>Before changing roster you need to connect to server. Do you wish to do this now?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="By availability and time" xml:space="preserve">
+        <source>By availability and time</source>
+        <note>Sorting Chat Messages</note>
+      </trans-unit>
+      <trans-unit id="By name" xml:space="preserve">
+        <source>By name</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="By status" xml:space="preserve">
+        <source>By status</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="By time" xml:space="preserve">
+        <source>By time</source>
+        <note>Sorting Chat Messages</note>
+      </trans-unit>
+      <trans-unit id="Call ended" xml:space="preserve">
+        <source>Call ended</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Call failed" xml:space="preserve">
+        <source>Call failed</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Change" xml:space="preserve">
+        <source>Change</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Change avatar" xml:space="preserve">
+        <source>Change avatar</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Change subject" xml:space="preserve">
+        <source>Change subject</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Channel destruction failed!" xml:space="preserve">
+        <source>Channel destruction failed!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Chat" xml:space="preserve">
+        <source>Chat</source>
+        <note>Status Options</note>
+      </trans-unit>
+      <trans-unit id="Clear History" xml:space="preserve">
+        <source>Clear History</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Close" xml:space="preserve">
+        <source>Close</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Connecting..." xml:space="preserve">
+        <source>Connecting...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Continue" xml:space="preserve">
+        <source>Continue</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Could not delete account as it was not possible to connect to the XMPP server. Please try again later." xml:space="preserve">
+        <source>Could not delete account as it was not possible to connect to the XMPP server. Please try again later.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Could not rename group chat. The server responded with an error:" xml:space="preserve">
+        <source>Could not rename group chat. The server responded with an error:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Could not set group chat avatar. The server responded with an error:" xml:space="preserve">
+        <source>Could not set group chat avatar. The server responded with an error:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Create" xml:space="preserve">
+        <source>Create</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Dark" xml:space="preserve">
+        <source>Dark</source>
+        <note>App Theme Type</note>
+      </trans-unit>
+      <trans-unit id="Default" xml:space="preserve">
+        <source>Default</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete" xml:space="preserve">
+        <source>Delete</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete channel?" xml:space="preserve">
+        <source>Delete channel?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete chat" xml:space="preserve">
+        <source>Delete chat</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete group chat?" xml:space="preserve">
+        <source>Delete group chat?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Details" xml:space="preserve">
+        <source>Details</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Display" xml:space="preserve">
+        <source>Display</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Do not disturb" xml:space="preserve">
+        <source>Do not disturb</source>
+        <note>Status Options</note>
+      </trans-unit>
+      <trans-unit id="Do you want to ban user" xml:space="preserve">
+        <source>Do you want to ban user</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Download storage" xml:space="preserve">
+        <source>Download storage</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Edit" xml:space="preserve">
+        <source>Edit</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Emails" xml:space="preserve">
+        <source>Emails</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enable automatic message synchronization" xml:space="preserve">
+        <source>Enable automatic message synchronization</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Encryption" xml:space="preserve">
+        <source>Encryption</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enter default nickname to use in chats" xml:space="preserve">
+        <source>Enter default nickname to use in chats</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enter message to send to:" xml:space="preserve">
+        <source>Enter message to send to:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enter new name for group chat" xml:space="preserve">
+        <source>Enter new name for group chat</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enter new subject for group chat" xml:space="preserve">
+        <source>Enter new subject for group chat</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enter status message" xml:space="preserve">
+        <source>Enter status message</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Error" xml:space="preserve">
+        <source>Error</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Extended away" xml:space="preserve">
+        <source>Extended away</source>
+        <note>Status Options</note>
+      </trans-unit>
+      <trans-unit id="Failure" xml:space="preserve">
+        <source>Failure</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Fingerprint of this device" xml:space="preserve">
+        <source>Fingerprint of this device</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Flush" xml:space="preserve">
+        <source>Flush</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="For best experience it is suggested to enable Message Archving with automatic message synchronization of at least last 12 hours.&#10;Do you wish to do this now?" xml:space="preserve">
+        <source>For best experience it is suggested to enable Message Archving with automatic message synchronization of at least last 12 hours.
+Do you wish to do this now?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Free for chat" xml:space="preserve">
+        <source>Free for chat</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="General" xml:space="preserve">
+        <source>General</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="History" xml:space="preserve">
+        <source>History</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="If you don't know any XMPP server domain names, then select one of our trusted servers." xml:space="preserve">
+        <source>If you don't know any XMPP server domain names, then select one of our trusted servers.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Info" xml:space="preserve">
+        <source>Info</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invitation" xml:space="preserve">
+        <source>Invitation</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invite" xml:space="preserve">
+        <source>Invite</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="It was not possible to access camera or microphone. Please check privacy settings" xml:space="preserve">
+        <source>It was not possible to access camera or microphone. Please check privacy settings</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="It was not possible to access camera. Please check in privacy settings that you have granted Snikket access to the camera." xml:space="preserve">
+        <source>It was not possible to access camera. Please check in privacy settings that you have granted Snikket access to the camera.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="It was not possible to contact XMPP server and sign in." xml:space="preserve">
+        <source>It was not possible to contact XMPP server and sign in.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="It was not possible to destroy channel %@. Server returned an error:" xml:space="preserve">
+        <source>It was not possible to destroy channel %@. Server returned an error:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="It was not possible to establish call" xml:space="preserve">
+        <source>It was not possible to establish call</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Join group chat" xml:space="preserve">
+        <source>Join group chat</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Joined" xml:space="preserve">
+        <source>Joined</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Joining..." xml:space="preserve">
+        <source>Joining...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Key not generated!" xml:space="preserve">
+        <source>Key not generated!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Last %d days" xml:space="preserve">
+        <source>Last %d days</source>
+        <note>Placeholder is number of days</note>
+      </trans-unit>
+      <trans-unit id="Last %d hours" xml:space="preserve">
+        <source>Last %d hours</source>
+        <note>Placeholder is hours value</note>
+      </trans-unit>
+      <trans-unit id="Leave chat" xml:space="preserve">
+        <source>Leave chat</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Light" xml:space="preserve">
+        <source>Light</source>
+        <note>App Theme Type</note>
+      </trans-unit>
+      <trans-unit id="Limits the size of the files sent to you which may be automatically downloaded" xml:space="preserve">
+        <source>Limits the size of the files sent to you which may be automatically downloaded</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="List of Messages" xml:space="preserve">
+        <source>List of Messages</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Login and password do not match." xml:space="preserve">
+        <source>Login and password do not match.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Media" xml:space="preserve">
+        <source>Media</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Member" xml:space="preserve">
+        <source>Member</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Message Archiving" xml:space="preserve">
+        <source>Message Archiving</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Message Archiving Error" xml:space="preserve">
+        <source>Message Archiving Error</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Message Synchronization" xml:space="preserve">
+        <source>Message Synchronization</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Messages" xml:space="preserve">
+        <source>Messages</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="NONE" xml:space="preserve">
+        <source>NONE</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Name" xml:space="preserve">
+        <source>Name</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="New call..." xml:space="preserve">
+        <source>New call...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="New private group chat" xml:space="preserve">
+        <source>New private group chat</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="New public group chat" xml:space="preserve">
+        <source>New public group chat</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Nickname" xml:space="preserve">
+        <source>Nickname</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No" xml:space="preserve">
+        <source>No</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No attachments" xml:space="preserve">
+        <source>No attachments</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No messages yet. Say hi!" xml:space="preserve">
+        <source>No messages yet. Say hi!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="None" xml:space="preserve">
+        <source>None</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Not Joined" xml:space="preserve">
+        <source>Not Joined</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Not connected!" xml:space="preserve">
+        <source>Not connected!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Nothing" xml:space="preserve">
+        <source>Nothing</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OK" xml:space="preserve">
+        <source>OK</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OMEMO" xml:space="preserve">
+        <source>OMEMO</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Offline" xml:space="preserve">
+        <source>Offline</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Older than 7 days" xml:space="preserve">
+        <source>Older than 7 days</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Online" xml:space="preserve">
+        <source>Online</source>
+        <note>Status Options</note>
+      </trans-unit>
+      <trans-unit id="Operation timed out" xml:space="preserve">
+        <source>Operation timed out</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Original quality will share image in the format in which it is stored on your phone and it may not be supported by every device." xml:space="preserve">
+        <source>Original quality will share image in the format in which it is stored on your phone and it may not be supported by every device.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Original quality will share video in the format in which video is stored on your phone and it may not be supported by every device." xml:space="preserve">
+        <source>Original quality will share video in the format in which video is stored on your phone and it may not be supported by every device.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Other devices fingerprints" xml:space="preserve">
+        <source>Other devices fingerprints</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Phones" xml:space="preserve">
+        <source>Phones</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please try again!" xml:space="preserve">
+        <source>Please try again!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Preferred domain name" xml:space="preserve">
+        <source>Preferred domain name</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Private message" xml:space="preserve">
+        <source>Private message</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Provided values are not acceptable" xml:space="preserve">
+        <source>Provided values are not acceptable</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Push Notifications" xml:space="preserve">
+        <source>Push Notifications</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Push Notifications Error" xml:space="preserve">
+        <source>Push Notifications Error</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Push notifications" xml:space="preserve">
+        <source>Push notifications</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Push notifications are enabled for %@. They need to be disabled before account can be removed and it is not possible to at this time. Please try again later." xml:space="preserve">
+        <source>Push notifications are enabled for %@. They need to be disabled before account can be removed and it is not possible to at this time. Please try again later.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Quality of uploaded media" xml:space="preserve">
+        <source>Quality of uploaded media</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Register" xml:space="preserve">
+        <source>Register</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Registration failure" xml:space="preserve">
+        <source>Registration failure</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Registration is not supported by this server" xml:space="preserve">
+        <source>Registration is not supported by this server</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remove account from application?" xml:space="preserve">
+        <source>Remove account from application?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remove from application" xml:space="preserve">
+        <source>Remove from application</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remove from server" xml:space="preserve">
+        <source>Remove from server</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Rename" xml:space="preserve">
+        <source>Rename</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Rename chat" xml:space="preserve">
+        <source>Rename chat</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Report" xml:space="preserve">
+        <source>Report</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Report Contact" xml:space="preserve">
+        <source>Report Contact</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Report and Block" xml:space="preserve">
+        <source>Report and Block</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Reported" xml:space="preserve">
+        <source>Reported</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Reporting..." xml:space="preserve">
+        <source>Reporting...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Resend" xml:space="preserve">
+        <source>Resend</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Ringing..." xml:space="preserve">
+        <source>Ringing...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Save" xml:space="preserve">
+        <source>Save</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Scanned QR code is not valid for Snikket." xml:space="preserve">
+        <source>Scanned QR code is not valid for Snikket.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Search channels" xml:space="preserve">
+        <source>Search channels</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Select photo" xml:space="preserve">
+        <source>Select photo</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Select quality of the image to use for sharing" xml:space="preserve">
+        <source>Select quality of the image to use for sharing</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Select quality of the video to use for sharing" xml:space="preserve">
+        <source>Select quality of the video to use for sharing</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Select status" xml:space="preserve">
+        <source>Select status</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Send" xml:space="preserve">
+        <source>Send</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Send Current Location" xml:space="preserve">
+        <source>Send Current Location</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Send Pin Location" xml:space="preserve">
+        <source>Send Pin Location</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Send message" xml:space="preserve">
+        <source>Send message</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Server did not respond on registration request" xml:space="preserve">
+        <source>Server did not respond on registration request</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Server returned an error:" xml:space="preserve">
+        <source>Server returned an error:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Server returned error" xml:space="preserve">
+        <source>Server returned error</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Server returned error:" xml:space="preserve">
+        <source>Server returned error:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Service is not available at this time." xml:space="preserve">
+        <source>Service is not available at this time.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Set" xml:space="preserve">
+        <source>Set</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Settings" xml:space="preserve">
+        <source>Settings</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Should account be removed from server as well?" xml:space="preserve">
+        <source>Should account be removed from server as well?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Snikket can be automatically notified by compatible XMPP servers about new messages when it is in background or stopped.&#10;If enabled, notifications about new messages will be forwarded to our push component and delivered to the device. These notifications may contain message senders jid and part of a message.&#10;Do you want to enable push notifications?" xml:space="preserve">
+        <source>Snikket can be automatically notified by compatible XMPP servers about new messages when it is in background or stopped.
+If enabled, notifications about new messages will be forwarded to our push component and delivered to the device. These notifications may contain message senders jid and part of a message.
+Do you want to enable push notifications?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Status" xml:space="preserve">
+        <source>Status</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Take photo" xml:space="preserve">
+        <source>Take photo</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The user will be reported and any calls, messages and status updates from them will be blocked." xml:space="preserve">
+        <source>The user will be reported and any calls, messages and status updates from them will be blocked.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This room is not capable of sending encrypted messages. Please change encryption settings to be able to send messages" xml:space="preserve">
+        <source>This room is not capable of sending encrypted messages. Please change encryption settings to be able to send messages</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This will delete all the message history for this chat. Continue?" xml:space="preserve">
+        <source>This will delete all the message history for this chat. Continue?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Trusted servers" xml:space="preserve">
+        <source>Trusted servers</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unblock" xml:space="preserve">
+        <source>Unblock</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unkown error occured" xml:space="preserve">
+        <source>Unkown error occured</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unlimited" xml:space="preserve">
+        <source>Unlimited</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Used image and video quality may impact storage and network usage" xml:space="preserve">
+        <source>Used image and video quality may impact storage and network usage</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="User with provided username already exists" xml:space="preserve">
+        <source>User with provided username already exists</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Video call" xml:space="preserve">
+        <source>Video call</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Warning" xml:space="preserve">
+        <source>Warning</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="We are using %d MB of storage." xml:space="preserve">
+        <source>We are using %d MB of storage.</source>
+        <note>Placeholder is the Number in MBs</note>
+      </trans-unit>
+      <trans-unit id="When you share files using HTTP, they are uploaded to HTTP server with unique URL. Anyone who knows the unique URL to the file is able to download it.&#10;Do you wish to enable?" xml:space="preserve">
+        <source>When you share files using HTTP, they are uploaded to HTTP server with unique URL. Anyone who knows the unique URL to the file is able to download it.
+Do you wish to enable?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Yes" xml:space="preserve">
+        <source>Yes</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Yesterday" xml:space="preserve">
+        <source>Yesterday</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You are invited to join conversation at" xml:space="preserve">
+        <source>You are invited to join conversation at</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You are leaving the group chat" xml:space="preserve">
+        <source>You are leaving the group chat</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You are not connected to room.&#10;Please wait reconnection to room" xml:space="preserve">
+        <source>You are not connected to room.
+Please wait reconnection to room</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You are not joined to the channel." xml:space="preserve">
+        <source>You are not joined to the channel.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You've left there room %@ and push notifications for this room were disabled!&#10;You may need to reenable them on other devices." xml:space="preserve">
+        <source>You've left there room %@ and push notifications for this room were disabled!
+You may need to reenable them on other devices.</source>
+        <note>Placeholder is the Group Name</note>
+      </trans-unit>
+      <trans-unit id="Your Name" xml:space="preserve">
+        <source>Your Name</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="lines of preview" xml:space="preserve">
+        <source>lines of preview</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="server returned an error on the request to enable archiving. You can try to enable this feature later on from the account settings." xml:space="preserve">
+        <source>server returned an error on the request to enable archiving. You can try to enable this feature later on from the account settings.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="using" xml:space="preserve">
+        <source>using</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
